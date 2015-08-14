@@ -43,7 +43,7 @@ Known problems
 Any problems, questions or something wrong?
 ------------
 
-* Feel free to open an issue and I will look at it asap. - Pull Requests or ideas are always welcome!
+* Feel free to open an issue ticket and I will look at it asap. - Pull Requests or ideas are always welcome!
 
 
 ToDo:
@@ -55,8 +55,8 @@ ToDo:
   - [ ] Monthly updates!?
 - [ ] Find invalid entries or domains that aren't online anymore (high-prio)
 - [ ] Fix/merge all reported [issues](https://github.com/CHEF-KOCH/NSABlocklist/issues)
-      - [ ] Add explanation how to identify compromised domains/DNS
-	  - [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE
+  - [ ] Add explanation how to identify compromised domains/DNS
+	- [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE (low-prio)
 
 
 Utils

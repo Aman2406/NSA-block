@@ -22,6 +22,8 @@
 0.0.0.0 NewJunk4U.com
 0.0.0.0 Suddenplot.com
 0.0.0.0 ns2.21vianet.com.cn
+0.0.0.0 ns1.edgecastcdn.net 
+0.0.0.0 ns2.edgecastcdn.net
 0.0.0.0 martinharrigan.ie
 0.0.0.0 andyshora.com
 0.0.0.0 Monster-Ads.net
