@@ -12,6 +12,13 @@
 0.0.0.0 ns7.dns-net.de
 0.0.0.0 ns1.dns-net.de
 0.0.0.0 ns2.21vianet.com.cn
+0.0.0.0 martinharrigan.ie
+0.0.0.0 andyshora.com
+0.0.0.0 chrissharkey.com
+0.0.0.0 cxxtest.com
+0.0.0.0 nihilogic.dk
+0.0.0.0 masatohagiwara.net
+0.0.0.0 nickel.rs
 0.0.0.0 ns1.21vianet.com.cn
 0.0.0.0 dns.east3.247realmedia.com
 0.0.0.0 dns.east1.247realmedia.com
@@ -1950,6 +1957,8 @@
 0.0.0.0 dns1.intnet.mu
 0.0.0.0 ns1.servihosting.com
 0.0.0.0 ns2.servihosting.com
+0.0.0.0 ns1.zen.co.uk
+0.0.0.0 ns0.zen.co.uk
 0.0.0.0 ns1.wirelessdataspco.org
 0.0.0.0 ns.cdpdspco.org
 0.0.0.0 ns2.setupsite.com
@@ -2462,4 +2471,7 @@
 0.0.0.0 vl-mo-dn011-fae1.mo.videotron.ca
 0.0.0.0 vl-mo-dn010-fae1.mo.videotron.ca
 0.0.0.0 vl-mo-dn009-fae1.mo.videotron.ca
+0.0.0.0 adrastea.xerox.com
+0.0.0.0 beta.xerox.com
+0.0.0.0 carme.xerox.com
 # NSA Blocklist ends here
