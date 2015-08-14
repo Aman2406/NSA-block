@@ -27,6 +27,7 @@ Known problems that a hosts file can't fix:
 * An HOSTS file is no guarntee, if the NSA is already in your system it's already to late.
 * HOSTS files are no guarntee that the NSA or any other attacker/organisation could simply bypass it via 0day or other vulnerablitlys on your system/router.
 * HOSTS files can't protect against attacks on the hardware, if the router is already compromised or comes with backdoors this list will be easily bypassed anyway.
+* Due the complexy of the entire file I can't explain every single IP or PTR record.
 * ....
 
 
