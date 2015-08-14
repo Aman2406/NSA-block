@@ -1,5 +1,6 @@
 NSABlocklist© file original created under the MITM license 2015 by CHEF-KOCH.
 
+
 Description:
 ------------
 This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from beeing connecting to you without permission. The list is not designed to block common malware, spyware or anything that is already avaible on the net via a proper designed hosts for such case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
@@ -48,7 +49,7 @@ ToDo:
 - [ ] Find invalid entries or domains that aren't online anymore (high-prio)
 - [ ] Fix/merge all reported [issues](https://github.com/CHEF-KOCH/NSABlocklist/issues)
     - [ ] Add explanation how to identify compromised domains/DNS
-	- [ ] May add solutions example to e.g. secure DNS via DNSCrypt or other solutions
+	- [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE
 
 
 Project History

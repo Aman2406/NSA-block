@@ -111,11 +111,6 @@
 0.0.0.0 dns3.alphared.com
 0.0.0.0 dns2.alphared.com
 0.0.0.0 dns1.alphared.com
-0.0.0.0 ns4.yahoo.com
-0.0.0.0 ns2.yahoo.com
-0.0.0.0 ns5.yahoo.com
-0.0.0.0 ns1.yahoo.com
-0.0.0.0 ns3.yahoo.com
 0.0.0.0 ns1.nosc.mil
 0.0.0.0 hamradio.ucsd.edu
 0.0.0.0 dns.iarc.org
@@ -141,13 +136,6 @@
 0.0.0.0 ns63.worldnic.com
 0.0.0.0 ns2.anteldata.com.uy
 0.0.0.0 ns1.anteldata.com.uy
-0.0.0.0 dns-06.ns.aol.com
-0.0.0.0 dns-07.ns.aol.com
-0.0.0.0 daha-07.ns.aol.com
-0.0.0.0 daha-02.ns.aol.com
-0.0.0.0 daha-01.ns.aol.com
-0.0.0.0 dns-02.ns.aol.com
-0.0.0.0 dns-01.ns.aol.com
 0.0.0.0 ns2.apogeetelecom.com
 0.0.0.0 ns1.apogeetelecom.com
 0.0.0.0 nserver2.apple.com

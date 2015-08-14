@@ -32,3 +32,21 @@ ns3.google.com [216.239.36.10]
 ns4.google.com [216.239.38.10]
 ns1.google.com [216.239.32.10]
 ns2.google.com [216.239.34.10]
+
+
+# AOL [NSA-affiliated IP ranges]
+0.0.0.0 dns-06.ns.aol.com
+0.0.0.0 dns-07.ns.aol.com
+0.0.0.0 daha-07.ns.aol.com
+0.0.0.0 daha-02.ns.aol.com
+0.0.0.0 daha-01.ns.aol.com
+0.0.0.0 dns-02.ns.aol.com
+0.0.0.0 dns-01.ns.aol.com
+
+
+# YahhooooooooOooOo [NSA-affiliated IP ranges]
+0.0.0.0 ns4.yahoo.com
+0.0.0.0 ns2.yahoo.com
+0.0.0.0 ns5.yahoo.com
+0.0.0.0 ns1.yahoo.com
+0.0.0.0 ns3.yahoo.com
