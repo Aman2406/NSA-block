@@ -55,8 +55,8 @@ ToDo:
   - [ ] Monthly updates!?
 - [ ] Find invalid entries or domains that aren't online anymore (high-prio)
 - [ ] Fix/merge all reported [issues](https://github.com/CHEF-KOCH/NSABlocklist/issues)
-    - [ ] Add explanation how to identify compromised domains/DNS
-	- [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE
+      - [ ] Add explanation how to identify compromised domains/DNS
+	  - [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE
 
 
 Utils
@@ -64,7 +64,7 @@ Utils
 
 * [TCPIPUTILS.com](http://www.tcpiputils.com/)
 * [ZMap - The Internet Scanner](https://zmap.io/)
-* tracert nsa.gov, see [how TRACERT command works(http://support.microsoft.com/?kbid=162326)
+* tracert nsa.gov, see [how TRACERT command works](http://support.microsoft.com/?kbid=162326)
 
 
 Project History
