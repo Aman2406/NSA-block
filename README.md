@@ -2,7 +2,7 @@ NSABlocklist© file original created under the MITM license 2015 by CHEF-KOCH.
 
 Description:
 ------------
-This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to 'kill' known NSA / GCHQ servers. It's not designed to block malware, spyware or anything that is already avaible on the net. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
+This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ servers from beeing connect to you. It's not designed to block malware, spyware or anything that is already avaible on the net. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 
 This project includes
@@ -26,7 +26,7 @@ Do you hate the NSA or other agencys?
 * Everyone have something to hide, passwords, privat data, accounts, ....
 
 
-Known problems that hosts file can not fix:
+Known problems hosts file can't fix
 ------------
 * An hosts file is no guarantee, if the NSA is already in your system it's already to late.
 * HOSTS files are no guarantee that the NSA or any other attacker/organization could simply bypass it via 0day or other vulnerabilitys on your system/router.
@@ -40,11 +40,28 @@ ToDo:
 
 - [ ] Fix Readme.md, typos, grammar,...
   - [ ] Maybe sort the hosts list alphabetically
-  - [ ] Maybe add an seperate hosts for MS, Apple, Google (if there is interest) 
-  - [ ] Monthly updates?
-- [ ] Find invalid entries or domains that aren't online anymore
+  - [ ] Maybe add an seperate hosts file for MS, Apple, Google (if someone ask for it) 
+  - [ ] Maybe monthly updates?
+- [ ] Find invalid entries or domains that aren't online anymore (high-prio)
 - [ ] Fix/merge all reported [issues](https://github.com/CHEF-KOCH/NSABlocklist/issues)
-- [ ] Add explanation how to identify or check domains if they're compromised
+    - [ ] Add explanation how to identify compromised domains/DNS
+	- [ ] May add solutions example to e.g. secure DNS via DNSCrypt or other solutions
+
+
+Project History
+------------
+
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [x] 14.08.2015 initial upload of the entire project and small Readme.md corrections
+
+
 
 
 My list is original based on 2007 published Wikileaks information (and includes my own modifications):
