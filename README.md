@@ -1,7 +1,7 @@
 NSABlocklist© file original created under the MIT license 2015 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 
-Description:
+Description
 ------------
 This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from beeing connecting to you without permission. The list is not designed to block common malware, spyware or anything that is already avaible on the net via a proper designed hosts for such case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
@@ -50,9 +50,9 @@ ToDo:
 ------------
 
 - [ ] Fix Readme.md, typos, grammar,...
-  - [ ] Maybe sort the hosts list alphabetically
-  - [ ] Maybe add an seperate hosts file for MS, Apple, Google (if someone ask for it) 
-  - [ ] Maybe monthly updates?
+  - [ ] Sort hosts entries alphabetically
+  - [ ] Add an seperate hosts file for MS, Apple, Google (if someone ask for it) 
+  - [ ] Monthly updates!?
 - [ ] Find invalid entries or domains that aren't online anymore (high-prio)
 - [ ] Fix/merge all reported [issues](https://github.com/CHEF-KOCH/NSABlocklist/issues)
     - [ ] Add explanation how to identify compromised domains/DNS
@@ -64,6 +64,7 @@ Utils
 
 * [TCPIPUTILS.com](http://www.tcpiputils.com/)
 * [ZMap - The Internet Scanner](https://zmap.io/)
+* tracert nsa.gov, see [how TRACERT command works(http://support.microsoft.com/?kbid=162326)
 
 
 Project History
@@ -73,7 +74,7 @@ Project History
 - [x] 14.08.2015 Initial upload of the entire project and small Readme.md corrections
 
 
-Research
+References
 ------------
 
 * [Cryptome](http://cryptome.info/0001/ip-tla.htm)
@@ -86,7 +87,8 @@ Research
 * [NSA PRISM Keywords For Domestic Spying - Business Insider](http://www.businessinsider.com/nsa-prism-keywords-for-domestic-spying-2013-6?IR=T)
 * [Windows and the backdoor question from 1999](http://edition.cnn.com/TECH/computing/9909/03/windows.nsa.02/)
 * [Psssst: Wanna Buy a Used Spy Website?](http://www.wired.com/2015/03/nsa_domains/)
-* [The NSA hides surveillance software in hard drives](http://www.engadget.com/2015/02/16/hard-drive-spyware/)
+* [Understanding NSA Malware - Schneier on Security](https://www.schneier.com/blog/archives/2015/02/understanding_n.html)
+* [Check if NSA warrantless surveillance is looking at your IP traffic](http://www.lookingglassnews.org/viewstory.php?storyid=6861)
 * [Hardened user.js for Firefox to stop data leackage](https://github.com/pyllyukko/user.js)
 
 

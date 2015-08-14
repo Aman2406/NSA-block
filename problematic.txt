@@ -50,3 +50,13 @@ ns2.google.com [216.239.34.10]
 0.0.0.0 ns5.yahoo.com
 0.0.0.0 ns1.yahoo.com
 0.0.0.0 ns3.yahoo.com
+
+
+# Offical NSA HP
+63.239.67.11
+23.76.132.226
+65.222.202.53
+12.120.3.169
+0.0.0.0 nsa.gov
+
+
