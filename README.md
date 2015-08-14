@@ -3,7 +3,7 @@ An HOSTS file to block NSA spying!
 
 
 Description:
-This isn't yet another hosts file that claims to secure the web, it's specially designed to 'kill' known NSA servers. It's not designed to block malware, spyware or anything that is already avaible on the net. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
+This isn't yet another hosts file that claims to secure the web, it's specially designed to 'kill' known NSA / GCHQ  servers. It's not designed to block malware, spyware or anything that is already avaible on the net. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 The lists is from 2007 with some modifications, like duplicates was removed, ...
 
