@@ -20,9 +20,9 @@ Important Notice
 * I do not accept donations, I'm not doing this because I want $$money or hype I'm doing this because I didn't found a proper list on the whole internet and of course I want to share my knowledge for free. I always think that such information should be available for everyone on the world.
 
 
-Do you hate the NSA or other agencys?
+Do you hate the NSA or other agencies?
 ------------
-* I do not _hate_ the NSA or other agencys but I really don't like that everyone is automatically under the microscope and of course that there is no opt-out or transparency excpect lies and more lies (and some excuses ...yeah, we are doing this because terrorism, go f$ck yourself with such statements!)
+* I do not _hate_ the NSA or other agencies but I really don't like that everyone is automatically under the microscope and of course that there is no opt-out or transparency excpect lies and more lies (and some excuses ...yeah, we are doing this because terrorism, go f$ck yourself with such statements!)
 * Everyone have something to hide, passwords, privat data, accounts, ....
 
 
@@ -51,14 +51,6 @@ ToDo:
 Project History
 ------------
 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
 - [x] 14.08.2015 initial upload of the entire project and small Readme.md corrections
 
 
