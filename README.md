@@ -1,4 +1,3 @@
-
 NSABlocklist© file original created under the MITM license 2015 by CHEF-KOCH.
 
 Description:
@@ -23,17 +22,17 @@ Important Notice
 
 Do you hate the NSA or other agencys?
 ------------
-* I do not _hate_ the NSA or other agencys but I really don't like that everyone is automatically under the microscope and of course that there is no opt-out or transparency excpect lies and more lies (and some excuses ...yeah, we are doing this because terrorism, go f$ck yourself with wuch statements!)
+* I do not _hate_ the NSA or other agencys but I really don't like that everyone is automatically under the microscope and of course that there is no opt-out or transparency excpect lies and more lies (and some excuses ...yeah, we are doing this because terrorism, go f$ck yourself with such statements!)
 * Everyone have something to hide, passwords, privat data, accounts, ....
 
 
-Known problems that this hosts file can't fix:
+Known problems that hosts file can not fix:
 ------------
 * An hosts file is no guarantee, if the NSA is already in your system it's already to late.
 * HOSTS files are no guarantee that the NSA or any other attacker/organization could simply bypass it via 0day or other vulnerabilitys on your system/router.
 * HOSTS files can't protect against attacks directly on/in the hardware, e.g. if the router is already compromised or comes with backdoors this list will be easily bypassed anyway.
 * Due the complex of the entire file I can't explain every single IP or PTR record.
-* The hosts file may present an attack vector for malicious software because the file could be modified to redirect the entire traffic e.g. adware or trojans can do this.
+* The hosts file may present an attack vector for malicious software because the file could be modified to redirect the entire traffic e.g. adware or trojans can do this. Ensure that the file was marked as read-only and you're not logged in as adminstrator. 
 
 
 ToDo:
