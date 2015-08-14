@@ -1,5 +1,6 @@
+# File encoding: 							UTF-8 Dos/Windows 1252
 127.0.0.1 localhost							#[IPv4 only]
-#127.0.0.1 localhost.localdomain			#depcreated
+127.0.0.1 localhost.localdomain				#compatibility
 #127.0.0.1 255.255.255.255 broadcasthost	#depcreated
 #::1 localhost								#[IPv6 only]
 #127.0.0.1 local							#depcreated
@@ -680,6 +681,7 @@
 0.0.0.0 ns1.comunitel.net
 0.0.0.0 ns003a.cxnet.dk
 0.0.0.0 ns002a.cxnet.dk
+0.0.0.0 nameserver4.concentric.net
 0.0.0.0 nameserver3.concentric.net
 0.0.0.0 nameserver2.concentric.net
 0.0.0.0 nameserver1.concentric.net
@@ -2298,6 +2300,7 @@
 0.0.0.0 ns1.towerstream.com
 0.0.0.0 ns2.tpgi.com.au
 0.0.0.0 ns1.tpgi.com.au
+0.0.0.0 ns4.outwide.co
 0.0.0.0 ns3.outwide.com
 0.0.0.0 ns1.transpower.co.nz
 0.0.0.0 ns1.transtelecom.net

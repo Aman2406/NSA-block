@@ -30,13 +30,20 @@ Do you hate the NSA or other agencies?
 * Everyone have something to hide, passwords, privat data, accounts, ....
 
 
-Known problems hosts file can't fix
+Known problems
 ------------
 * An hosts file is no guarantee, if the NSA is already in your system it's already to late.
 * HOSTS files are no guarantee that the NSA or any other attacker/organization could simply bypass it via 0day or other vulnerabilitys on your system/router.
 * HOSTS files can't protect against attacks directly on/in the hardware, e.g. if the router is already compromised or comes with backdoors this list will be easily bypassed anyway.
 * Due the complex of the entire file I can't explain every single IP or PTR record.
-* The hosts file may present an attack vector for malicious software because the file could be modified to redirect the entire traffic e.g. adware or trojans can do this. Ensure that the file was marked as read-only and you're not logged in as adminstrator. 
+* The hosts file may present an attack vector for malicious software because the file could be modified to redirect the entire traffic e.g. adware or trojans can do this. Ensure that the file was marked as read-only and you're not logged in as adminstrator.
+* **NSA and other agancies can spy on traffic directly from supercomputers like infamous Echelon connected directly to some backbone without revealing any IP. This is an common problem, only strong and proper implemented encryption helps.**
+
+
+Any problems, questions or something wrong?
+------------
+
+* Feel free to open an issue and I will look at it asap. - Pull Requests or ideas are always welcome!
 
 
 ToDo:
@@ -58,6 +65,12 @@ Project History
 - [x] 14.08.2015 initial upload of the entire project and small Readme.md corrections
 
 
+Utils
+------------
+
+* [TCPIPUTILS.com](http://www.tcpiputils.com/)
+* [ZMap - The Internet Scanner](https://zmap.io/)
+
 
 Research
 ------------
@@ -70,7 +83,8 @@ Research
 * [Mobile Security Wiki | mobilesecuritywiki.com](https://mobilesecuritywiki.com/)
 * [Researcher at Kaspersky Labs have discovered a list of domains used by the NSA to install malware on victim's PC around the world.](https://www.hackread.com/here-is-a-list-of-urls-used-by-the-nsa-to-install-malware-on-pcs-worldwide/)
 * [NSA PRISM Keywords For Domestic Spying - Business Insider](http://www.businessinsider.com/nsa-prism-keywords-for-domestic-spying-2013-6?IR=T)
+* [Windows and the backdoor question from 1999](http://edition.cnn.com/TECH/computing/9909/03/windows.nsa.02/)
 * [Hardened user.js for Firefox to stop data leackage](https://github.com/pyllyukko/user.js)
 
 
-**Thanks goes to everyone which fights for www security! Give spying no chance!**
+**Thanks goes to everyone which fights for www. security! Give spying no chance!**
