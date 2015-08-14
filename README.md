@@ -56,8 +56,10 @@ Project History
 
 
 
-My list is original based on 2007 published Wikileaks information (and includes my own modifications):
+My list is original based on 2007 published Wikileaks documents (and includes my own modifications):
 * [Cryptome](http://cryptome.info/0001/ip-tla.htm)
+* [Free Haven's Selected Papers in Anonymity](http://freehaven.net/anonbib/)
+* [NSA Spying | Electronic Frontier Foundation](https://www.eff.org/de/nsa-spying)
 
 
 **Thanks goes to everyone which fights for the www security! Give spying no chance!**
