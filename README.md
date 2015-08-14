@@ -2,16 +2,15 @@ NSABlocklist© file original created under the MITM license 2015 by CHEF-KOCH.
 
 Description:
 ------------
-This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ servers from beeing connect to you. It's not designed to block malware, spyware or anything that is already avaible on the net. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
+This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from beeing connecting to you without permission. The list is not designed to block common malware, spyware or anything that is already avaible on the net via a proper designed hosts for such case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 
 My list is original based on 2007 published Wikileaks documents and includes my own modifications.
 
 
-
 This project includes
 ------------
-* An '[HOSTS.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/HOSTS.txt)' file that includes all Servers/DNS that are known as NSA or GCHQ involved.
+* An '[HOSTS.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/HOSTS.txt)' file that includes all Servers/DNS domains that are known to be NSA or GCHQ involved. The confirmation is given on the _Research_ link at the bottom.
 * An '[Super Ranges.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/Super%20Ranges.txt)' file which includes a list of known IP ranges that are compromised (be careful with that!).
 * An '[LICENSE](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/LICENSE)' File to shows the MITM license.
 * The '[README](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/README.md)' (this) file that includes the latest news, updates and explanations,...
@@ -59,15 +58,18 @@ Project History
 
 
 
-
 Research
 ------------
 
 * [Cryptome](http://cryptome.info/0001/ip-tla.htm)
+* [33bits](http://33bits.org/)
+* [Randomtalker web-privacy](http://randomwalker.info/web-privacy/)
 * [Free Haven's Selected Papers in Anonymity](http://freehaven.net/anonbib/)
 * [NSA Spying | Electronic Frontier Foundation](https://www.eff.org/de/nsa-spying)
 * [Mobile Security Wiki | mobilesecuritywiki.com](https://mobilesecuritywiki.com/)
 * [Researcher at Kaspersky Labs have discovered a list of domains used by the NSA to install malware on victim's PC around the world.](https://www.hackread.com/here-is-a-list-of-urls-used-by-the-nsa-to-install-malware-on-pcs-worldwide/)
+* [NSA PRISM Keywords For Domestic Spying - Business Insider](http://www.businessinsider.com/nsa-prism-keywords-for-domestic-spying-2013-6?IR=T)
+* [Hardened user.js for Firefox to stop data leackage](https://github.com/pyllyukko/user.js)
 
 
 **Thanks goes to everyone which fights for www security! Give spying no chance!**

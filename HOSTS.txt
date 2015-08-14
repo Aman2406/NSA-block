@@ -1,7 +1,7 @@
-127.0.0.1 localhost
-#127.0.0.1 localhost.localdomain
-#127.0.0.1 255.255.255.255 broadcasthost
-#::1 localhost								#[ipv6 only]
+127.0.0.1 localhost							#[IPv4 only]
+#127.0.0.1 localhost.localdomain			#depcreated
+#127.0.0.1 255.255.255.255 broadcasthost	#depcreated
+#::1 localhost								#[IPv6 only]
 #127.0.0.1 local							#depcreated
 
 # NSA Blocklist begins here
@@ -23,6 +23,7 @@
 0.0.0.0 ns1.abac.com
 0.0.0.0 ns.above.net
 0.0.0.0 ns3.above.net
+0.0.0.0 mail.ilovefliesen.de
 0.0.0.0 dns2.accesscomm.ca
 0.0.0.0 dns1.accesscomm.ca
 0.0.0.0 ns2.pnap.net
@@ -2316,7 +2317,7 @@
 0.0.0.0 dns.cantv.net
 0.0.0.0 mercury.tsicable.com
 0.0.0.0 apollo.tsicable.com
-0.0.0.0 tssnet1.tss.net [66.7.96.2]
+0.0.0.0 tssnet1.tss.net
 0.0.0.0 gatekeeper.tss.net
 0.0.0.0 orff.t-systems-mms.eu
 0.0.0.0 ns2.tttmaxnet.com
