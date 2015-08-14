@@ -15,6 +15,8 @@
 0.0.0.0 martinharrigan.ie
 0.0.0.0 andyshora.com
 0.0.0.0 chrissharkey.com
+0.0.0.0 NS2.OLEMISS.EDU
+0.0.0.0 NS1.OLEMISS.EDU
 0.0.0.0 cxxtest.com
 0.0.0.0 nihilogic.dk
 0.0.0.0 masatohagiwara.net
