@@ -1,4 +1,10 @@
+#
+# License:									The MIT License (MIT)
 # File encoding: 							UTF-8 Dos/Windows 1252
+# Original maintainer:						CHEF-KOCH
+# Version:									000000000001
+# Homepage: 								http://chef-koch.github.io/NSABlocklist
+#
 127.0.0.1 localhost							#[IPv4 only]
 127.0.0.1 localhost.localdomain				#compatibility
 #127.0.0.1 255.255.255.255 broadcasthost	#depcreated
@@ -11,10 +17,15 @@
 0.0.0.0 ns2.1-800-hosting.com
 0.0.0.0 ns1.1-800-hosting.com
 0.0.0.0 ns7.dns-net.de
+0.0.0.0 Coffeehausblog.com
 0.0.0.0 ns1.dns-net.de
+0.0.0.0 NewJunk4U.com
+0.0.0.0 Suddenplot.com
 0.0.0.0 ns2.21vianet.com.cn
 0.0.0.0 martinharrigan.ie
 0.0.0.0 andyshora.com
+0.0.0.0 Monster-Ads.net
+0.0.0.0 nickleplatedads.com
 0.0.0.0 chrissharkey.com
 0.0.0.0 NS2.OLEMISS.EDU
 0.0.0.0 NS1.OLEMISS.EDU

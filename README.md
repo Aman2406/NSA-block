@@ -59,17 +59,17 @@ ToDo:
 	- [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE
 
 
-Project History
-------------
-
-- [x] 14.08.2015 initial upload of the entire project and small Readme.md corrections
-
-
 Utils
 ------------
 
 * [TCPIPUTILS.com](http://www.tcpiputils.com/)
 * [ZMap - The Internet Scanner](https://zmap.io/)
+
+
+Project History
+------------
+
+- [x] 14.08.2015 initial upload of the entire project and small Readme.md corrections
 
 
 Research
@@ -84,6 +84,8 @@ Research
 * [Researcher at Kaspersky Labs have discovered a list of domains used by the NSA to install malware on victim's PC around the world.](https://www.hackread.com/here-is-a-list-of-urls-used-by-the-nsa-to-install-malware-on-pcs-worldwide/)
 * [NSA PRISM Keywords For Domestic Spying - Business Insider](http://www.businessinsider.com/nsa-prism-keywords-for-domestic-spying-2013-6?IR=T)
 * [Windows and the backdoor question from 1999](http://edition.cnn.com/TECH/computing/9909/03/windows.nsa.02/)
+* [Psssst: Wanna Buy a Used Spy Website?](http://www.wired.com/2015/03/nsa_domains/)
+* [The NSA hides surveillance software in hard drives](http://www.engadget.com/2015/02/16/hard-drive-spyware/)
 * [Hardened user.js for Firefox to stop data leackage](https://github.com/pyllyukko/user.js)
 
 

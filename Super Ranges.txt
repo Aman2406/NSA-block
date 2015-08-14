@@ -4,10 +4,7 @@ Should work for most firewalls, routers:
 
 
 
-
-or in another format:
-
-
+# Or in another format:
 
 4.0.0.0 – 4.255.255.255
 6.0.0.0 - 6.255.255.255
@@ -169,7 +166,10 @@ or in another format:
 
 
 
-# Part of the 'Terrorist Surveillance Program' # 
+
+
+
+# Part of the 'Terrorist Surveillance Program'
 83.27.0.0 - 83.27.255.255
 170.86.0.0 - 170.86.255.255
 62.212.234.128 - 62.212.234.255
@@ -234,6 +234,7 @@ or in another format:
 85.224.0.0 - 85.231.255.255
 124.148.0.0 - 124.149.255.255
 83.100.128.0 - 83.100.128.255
+
 
 
 
@@ -318,3 +319,5 @@ or in another format:
 220.96.0.0/14
 82.88.0.0/14
 216.128.73.0/24
+
+
