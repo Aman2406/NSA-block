@@ -5,10 +5,14 @@ Description:
 This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ servers from beeing connect to you. It's not designed to block malware, spyware or anything that is already avaible on the net. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 
+My list is original based on 2007 published Wikileaks documents and includes my own modifications.
+
+
+
 This project includes
 ------------
 * An '[HOSTS.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/HOSTS.txt)' file that includes all Servers/DNS that are known as NSA or GCHQ involved.
-* An separate 'Super Ranges' file that includes a list of known IP ranges that are possible compromised (be careful with that!).
+* An '[Super Ranges.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/Super%20Ranges.txt)' file which includes a list of known IP ranges that are compromised (be careful with that!).
 * An '[LICENSE](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/LICENSE)' File to shows the MITM license.
 * The '[README](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/README.md)' (this) file that includes the latest news, updates and explanations,...
 * An '[problematic.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/problematic.txt)' file wich includes DNS/PTRs that are possible problematic for you. 
@@ -56,10 +60,14 @@ Project History
 
 
 
-My list is original based on 2007 published Wikileaks documents (and includes my own modifications):
+Research
+------------
+
 * [Cryptome](http://cryptome.info/0001/ip-tla.htm)
 * [Free Haven's Selected Papers in Anonymity](http://freehaven.net/anonbib/)
 * [NSA Spying | Electronic Frontier Foundation](https://www.eff.org/de/nsa-spying)
+* [Mobile Security Wiki | mobilesecuritywiki.com](https://mobilesecuritywiki.com/)
+* [Researcher at Kaspersky Labs have discovered a list of domains used by the NSA to install malware on victim's PC around the world.](https://www.hackread.com/here-is-a-list-of-urls-used-by-the-nsa-to-install-malware-on-pcs-worldwide/)
 
 
-**Thanks goes to everyone which fights for the www security! Give spying no chance!**
+**Thanks goes to everyone which fights for www security! Give spying no chance!**

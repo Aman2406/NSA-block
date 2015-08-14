@@ -2473,3 +2473,4 @@
 0.0.0.0 vl-mo-dn011-fae1.mo.videotron.ca
 0.0.0.0 vl-mo-dn010-fae1.mo.videotron.ca
 0.0.0.0 vl-mo-dn009-fae1.mo.videotron.ca
+# NSA Blocklist ends here
