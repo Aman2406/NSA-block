@@ -52,11 +52,17 @@ ns2.google.com [216.239.34.10]
 0.0.0.0 ns3.yahoo.com
 
 
-# Offical NSA HP
+# Offical NSA Homepage
 63.239.67.11
 23.76.132.226
 65.222.202.53
 12.120.3.169
 0.0.0.0 nsa.gov
+
+
+# Vodafone [NSA-affiliated IP ranges]
+0.0.0.0 dns2.vodafone.de
+0.0.0.0 dns1.vodafone.de
+#0.0.0.0 web.vodafone.de
 
 
