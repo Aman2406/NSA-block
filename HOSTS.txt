@@ -2504,4 +2504,10 @@
 0.0.0.0 zeork.zeork.com.pl
 0.0.0.0 dns1.zzidc.com
 0.0.0.0 dns2.zzidc.com
+0.0.0.0 core1.hetzner.de
+0.0.0.0 a23-76-131-36.deploy.static.akamaitechnologies.com
+0.0.0.0 juniper1.ffm.hetzner.de
+0.0.0.0 et-7-3-0.nyc41.ip4.gtt.net
+0.0.0.0 et-4-1-0.fra28.ip4.gtt.net
+0.0.0.0 de-cix.fra.as13335.net
 # NSA Blocklist ends here

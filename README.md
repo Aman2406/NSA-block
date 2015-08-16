@@ -6,7 +6,7 @@ Description
 This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from beeing connecting to you without permission, of course the IP's also can be used for PeerBlock or other tools. The list is not designed to block common malware, spyware or anything that is already avaible on the net via a proper designed hosts for such case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 
-My list is original based on 2007 published Wikileaks documents and includes my own modifications.
+My list is original based on 2007 published Wikileaks documents and includes my own modifications from 2015.
 
 
 This project includes
@@ -90,6 +90,8 @@ References
 * [Psssst: Wanna Buy a Used Spy Website?](http://www.wired.com/2015/03/nsa_domains/)
 * [Understanding NSA Malware - Schneier on Security](https://www.schneier.com/blog/archives/2015/02/understanding_n.html)
 * [Check if NSA warrantless surveillance is looking at your IP traffic](http://www.lookingglassnews.org/viewstory.php?storyid=6861)
+* [Sensitive IP addresses | Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Sensitive_IP_addresses)
+* [Do Not Scan - Government IP list | PeerBlock Forums](http://forums.peerblock.com/read.php?8,14794,14794)
 * [Hardened user.js for Firefox to stop data leackage](https://github.com/pyllyukko/user.js)
 
 
