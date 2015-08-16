@@ -37,6 +37,7 @@ Known problems
 * HOSTS files can't protect against attacks directly on/in the hardware, e.g. if the router is already compromised or comes with backdoors this list will be easily bypassed anyway.
 * Due the complex of the entire file I can't explain every single IP or PTR record.
 * The hosts file may present an attack vector for malicious software because the file could be modified to redirect the entire traffic e.g. adware or trojans can do this. Ensure that the file was marked as read-only and you're not logged in as adminstrator.
+* Be careful when blocking IP addresses, as IP addresses change frequently and can block people you don't intend to block.
 * **NSA and other agancies can spy on traffic directly from supercomputers like infamous Echelon connected directly to some backbone without revealing any IP. This is an common problem, only strong and proper implemented encryption helps.**
 
 
