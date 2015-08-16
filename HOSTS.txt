@@ -2,7 +2,7 @@
 # License:									The MIT License (MIT)
 # File encoding: 							UTF-8 Dos/Windows 1252
 # Original maintainer:						CHEF-KOCH
-# Version:									000000000004
+# Version:									000000000005
 # Homepage: 								http://chef-koch.github.io/NSABlocklist
 #
 127.0.0.1 localhost #[IPv4 only]
@@ -12,7 +12,7 @@
 #127.0.0.1 local #depcreated
 #
 
-# NSA Blocklist begins here
+# NSABlocklist begins here
 0.0.0.0 ns4.1-800-hosting.com
 0.0.0.0 ns3.1-800-hosting.com
 0.0.0.0 ns2.1-800-hosting.com
@@ -2514,6 +2514,7 @@
 0.0.0.0 et-7-3-0.nyc41.ip4.gtt.net
 0.0.0.0 et-4-1-0.fra28.ip4.gtt.net
 0.0.0.0 de-cix.fra.as13335.net
+# GOV Pages only
 0.0.0.0 ABERDEENWA.GOV
 0.0.0.0 ABINGDON-VA.GOV
 0.0.0.0 ABINGTONMA.GOV
@@ -7831,4 +7832,5 @@
 0.0.0.0 ZAPATACOUNTYTX.GOV
 0.0.0.0 ZEROINWISCONSIN.GOV
 0.0.0.0 ZIONSVILLE-IN.GOV
-# NSA Blocklist ends here
+# /GOV Pages
+#/NSABlocklist ends here
