@@ -2482,6 +2482,7 @@
 0.0.0.0 ns.zonnet.nl
 0.0.0.0 dns2.viavale.com.br
 0.0.0.0 dns.via.com.br
+0.0.0.0 omeglewarden.com
 0.0.0.0 vl-mo-dn011-fae1.mo.videotron.ca
 0.0.0.0 vl-mo-dn010-fae1.mo.videotron.ca
 0.0.0.0 vl-mo-dn009-fae1.mo.videotron.ca
@@ -2506,6 +2507,8 @@
 0.0.0.0 dns2.zzidc.com
 0.0.0.0 core1.hetzner.de
 0.0.0.0 a23-76-131-36.deploy.static.akamaitechnologies.com
+0.0.0.0 prod-unix-extdns03.akamai.com
+0.0.0.0 prod-unix-extdns06.akamai.com
 0.0.0.0 juniper1.ffm.hetzner.de
 0.0.0.0 et-7-3-0.nyc41.ip4.gtt.net
 0.0.0.0 et-4-1-0.fra28.ip4.gtt.net
