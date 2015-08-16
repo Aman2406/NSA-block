@@ -81,7 +81,9 @@ References
 
 * [Cryptome | cryptome.org](http://cryptome.info/0001/ip-tla.htm)
 * [33bits | 33bits.org](http://33bits.org/)
+* [What an IP Address Can Reveal About You | priv.gc.ca](https://www.priv.gc.ca/information/research-recherche/2013/ip_201305_e.asp)
 * [Randomtalker web-privacy](http://randomwalker.info/web-privacy/)
+* [https://bosnadev.com/2015/04/14/facebook-chats-are-being-scanned-by-a-cia-funded-company/](Chats Are Being Scanned By A CIA Funded Company)
 * [Free Haven's Selected Papers in Anonymity](http://freehaven.net/anonbib/)
 * [NSA Spying | Electronic Frontier Foundation](https://www.eff.org/de/nsa-spying)
 * [Mobile Security Wiki | mobilesecuritywiki.com](https://mobilesecuritywiki.com/)
@@ -94,6 +96,7 @@ References
 * [Sensitive IP addresses | Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Sensitive_IP_addresses)
 * [Do Not Scan - Government IP list | PeerBlock Forums](http://forums.peerblock.com/read.php?8,14794,14794)
 * [Hardened user.js for Firefox to stop data leackage](https://github.com/pyllyukko/user.js)
+* [Entire set of 5,300 .gov domains as .csv file | GitHub.com](https://gsa.github.io/data/dotgov-domains/2014-12-01-full.csv)
 
 
 **Thanks goes to everyone which fights for www. security! Give spying no chance!**

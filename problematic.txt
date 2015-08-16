@@ -1,43 +1,6 @@
 The following addresses may break some providers and are excluded from the HOSTS file:
 --------------------------------------------------------------------------------------
 
-# NSA [NSA Homepage]
-nsa.gov [23.76.132.226, 2001:590:140a:388::19ff, 2001:590:140a:38c::19ff]
-dsdn-gh1-uea05.nsa.gov (63.239.67.11)
-dsdn-gh1-uea06.nsa.gov (63.239.65.41)
-emvm-gh1-uea08.nsa.gov (63.239.67.9)
-emvm-gh1-uea09.nsa.gov (63.239.67.10)
-63.239.67.11
-23.76.132.226
-65.222.202.53
-12.120.3.169
-23.76.128.0 - 23.76.143.255
-213.239.245.218
-213.239.245.5
-77.67.76.141
-141.136.105.178
-23.76.132.226
-
-# F.B.I. [F.B.I. Homepage]
-FBI.gov [69.58.186.114, 2001:4801:7901:0:6969:2b9e:0:1]
-69.58.176.0 - 69.58.191.255
-a3.fbi.gov (69.36.145.33)
-a1.fbi.gov (209.112.113.33)
-a2.fbi.gov (209.112.114.33)
-ns2.digimedia.com
-ns1.digimedia.com
-
-
-# C.I.A. [C.I.A. Homepage]
-cia.gov [23.50.66.76,2600:1400:a:180::184d, 2600:1400:a:19f::184d]
-a1-22.akam.net [193.108.91.22]
-a16-67.akam.net [23.211.132.67]
-a12-65.akam.net [184.26.160.65]
-a13-65.akam.net [2.22.230.65]
-a3-64.akam.net [96.7.49.64]
-a22-66.akam.net [23.211.61.66]
-198.81.128.0/18 198.81.128.0 - 198.81.191.255
-
 # Deutsche Telekom AG [NSA-affiliated IP ranges]
 79.192.0.0 - 79.244.191.255
 80.128.0.0 - 80.146.159.255
@@ -72,28 +35,29 @@ ns2.google.com [216.239.34.10]
 
 
 # AOL [NSA-affiliated IP ranges]
-0.0.0.0 dns-06.ns.aol.com
-0.0.0.0 dns-07.ns.aol.com
-0.0.0.0 daha-07.ns.aol.com
-0.0.0.0 daha-02.ns.aol.com
-0.0.0.0 daha-01.ns.aol.com
-0.0.0.0 dns-02.ns.aol.com
-0.0.0.0 dns-01.ns.aol.com
+dns-06.ns.aol.com
+dns-07.ns.aol.com
+daha-07.ns.aol.com
+daha-02.ns.aol.com
+daha-01.ns.aol.com
+dns-02.ns.aol.com
+dns-01.ns.aol.com
 
 
 # YahhooooooooOooOo [NSA-affiliated IP ranges]
-0.0.0.0 ns4.yahoo.com [68.142.196.63]
-0.0.0.0 ns2.yahoo.com [68.142.255.16]
-0.0.0.0 ns5.yahoo.com [216.109.116.17]
-0.0.0.0 ns1.yahoo.com [66.218.71.63]
-0.0.0.0 ns3.yahoo.com [217.12.4.104]
-0.0.0.0 ns2.yipes.com [66.7.155.198]
+ns4.yahoo.com [68.142.196.63]
+ns2.yahoo.com [68.142.255.16]
+ns5.yahoo.com [216.109.116.17]
+ns1.yahoo.com [66.218.71.63]
+ns3.yahoo.com [217.12.4.104]
+ns2.yipes.com [66.7.155.198]
 
 
 # Vodafone [NSA-affiliated IP ranges]
-0.0.0.0 dns2.vodafone.de
-0.0.0.0 dns1.vodafone.de
-#0.0.0.0 web.vodafone.de
+dns2.vodafone.de
+dns1.vodafone.de
+#web.vodafone.de
+#wap.vodafone.de
 
 
 Bank of America [NSA-affiliated IP ranges]
@@ -104,6 +68,46 @@ ns4.bankofamerica.com [171.159.192.15]
 ns1.bankofamerica.com [171.159.64.15]
 
 
+#########################
+##### GOV domains #######
+#########################
+# NSA [NSA Homepage]
+nsa.gov [23.76.132.226, 2001:590:140a:388::19ff, 2001:590:140a:38c::19ff]
+dsdn-gh1-uea05.nsa.gov (63.239.67.11)
+dsdn-gh1-uea06.nsa.gov (63.239.65.41)
+emvm-gh1-uea08.nsa.gov (63.239.67.9)
+emvm-gh1-uea09.nsa.gov (63.239.67.10)
+63.239.67.11
+23.76.132.226
+65.222.202.53
+12.120.3.169
+23.76.128.0 - 23.76.143.255
+213.239.245.218
+213.239.245.5
+77.67.76.141
+141.136.105.178
+23.76.132.226
 
+
+# F.B.I. [F.B.I. Homepage]
+FBI.gov [69.58.186.114, 2001:4801:7901:0:6969:2b9e:0:1]
+69.58.176.0 - 69.58.191.255
+a3.fbi.gov (69.36.145.33)
+a1.fbi.gov (209.112.113.33)
+a2.fbi.gov (209.112.114.33)
+ns2.digimedia.com
+ns1.digimedia.com
+
+
+# C.I.A. [C.I.A. Homepage]
+cia.gov [23.50.66.76,2600:1400:a:180::184d, 2600:1400:a:19f::184d]
+169.254.1.2
+a1-22.akam.net [193.108.91.22]
+a16-67.akam.net [23.211.132.67]
+a12-65.akam.net [184.26.160.65]
+a13-65.akam.net [2.22.230.65]
+a3-64.akam.net [96.7.49.64]
+a22-66.akam.net [23.211.61.66]
+198.81.128.0/18 198.81.128.0 - 198.81.191.255
 
 
