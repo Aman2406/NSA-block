@@ -76,3 +76,10 @@ ns4.bankofamerica.com [171.159.192.15]
 ns1.bankofamerica.com [171.159.64.15]
 
 
+# F.B.I. [F.B.I. Homepage]
+fbi.com
+FBI.gov 
+ns2.digimedia.com
+ns1.digimedia.com
+
+
