@@ -5,11 +5,11 @@
 # Version:									000000000003
 # Homepage: 								http://chef-koch.github.io/NSABlocklist
 #
-127.0.0.1 localhost							#[IPv4 only]
-127.0.0.1 localhost.localdomain				#compatibility
-#127.0.0.1 255.255.255.255 broadcasthost	#depcreated
-#::1 localhost								#[IPv6 only]
-#127.0.0.1 local							#depcreated
+127.0.0.1 localhost #[IPv4 only]
+127.0.0.1 localhost.localdomain #compatibility
+#127.0.0.1 255.255.255.255 broadcasthost #depcreated
+#::1 localhost #[IPv6 only]
+#127.0.0.1 local #depcreated
 
 # NSA Blocklist begins here
 0.0.0.0 ns4.1-800-hosting.com
@@ -17,21 +17,21 @@
 0.0.0.0 ns2.1-800-hosting.com
 0.0.0.0 ns1.1-800-hosting.com
 0.0.0.0 ns7.dns-net.de
-0.0.0.0 Coffeehausblog.com
+0.0.0.0 coffeehausblog.com
 0.0.0.0 ns1.dns-net.de
-0.0.0.0 NewJunk4U.com
-0.0.0.0 Suddenplot.com
+0.0.0.0 newjunk4u.com
+0.0.0.0 suddenplot.com
 0.0.0.0 ns2.21vianet.com.cn
 #0.0.0.0 ns1.edgecastcdn.net #[needs investigation]
 #0.0.0.0 ns2.edgecastcdn.net #[needs investigation]
-#0.0.0.0 w4.hackademix.net	 #[needs investigation]
+#0.0.0.0 w4.hackademix.net #[needs investigation]
 0.0.0.0 martinharrigan.ie
 0.0.0.0 andyshora.com
-0.0.0.0 Monster-Ads.net
+0.0.0.0 monster-ads.net
 0.0.0.0 nickleplatedads.com
 0.0.0.0 chrissharkey.com
-0.0.0.0 NS2.OLEMISS.EDU
-0.0.0.0 NS1.OLEMISS.EDU
+0.0.0.0 ns2.olemiss.edu
+0.0.0.0 ns1.olemiss.edu
 0.0.0.0 cxxtest.com
 0.0.0.0 nihilogic.dk
 0.0.0.0 masatohagiwara.net
@@ -487,8 +487,6 @@
 0.0.0.0 ns3.cervalis.com
 0.0.0.0 ns2.cervalis.com
 0.0.0.0 ns1.cervalis.com
-0.0.0.0 ns0.bt.net
-0.0.0.0 ns1.bt.net
 0.0.0.0 ns8.bt.net
 0.0.0.0 ns7.bt.net
 0.0.0.0 ns6.bt.net
@@ -730,7 +728,7 @@
 0.0.0.0 ns4.navegante.com.sv
 0.0.0.0 ns3.navegante.com.sv
 0.0.0.0 ns2.net2ez.com
-0.0.0.0 ns1.net2ez.com 
+0.0.0.0 ns1.net2ez.com
 0.0.0.0 ns1.personainternet.com
 0.0.0.0 ns2.personainternet.com
 0.0.0.0 ns4.cybercity.dk
@@ -1104,7 +1102,7 @@
 0.0.0.0 hnlldnsdhcp.hawaiiantel.net
 0.0.0.0 ns1.hawkvoip.com
 0.0.0.0 ns2.hawkvoip.com
-0.0.0.0 auth-ns2.edu.ie 
+0.0.0.0 auth-ns2.edu.ie
 0.0.0.0 auth-ns1.edu.ie
 0.0.0.0 secondary.hamcom.de
 0.0.0.0 dns1.helinet.de
@@ -1499,7 +1497,7 @@
 0.0.0.0 ns1-auth.sprintlink.net
 0.0.0.0 auth60.ns.uu.net
 0.0.0.0 ns2.metu.edu.tr
-0.0.0.0 ns1.metu.edu.tr 
+0.0.0.0 ns1.metu.edu.tr
 0.0.0.0 ns2.myclearwave.net
 0.0.0.0 ns1.myclearwave.net
 0.0.0.0 ns2.chrlmi.cablespeed.com
@@ -1569,7 +1567,7 @@
 0.0.0.0 dns1.n2p.com
 0.0.0.0 ns2.nac.net
 0.0.0.0 ns1.nac.net
-0.0.0.0 ns1.netatonce.net 
+0.0.0.0 ns1.netatonce.net
 0.0.0.0 ns2.netatonce.net
 0.0.0.0 quart.dnspro.de
 0.0.0.0 tert.dnspro.de
@@ -2286,7 +2284,7 @@
 0.0.0.0 ns1.te-dns.net
 0.0.0.0 sns.tiscali.it
 0.0.0.0 ns.tiscalinet.it
-0.0.0.0 murdock.tiscali.com 
+0.0.0.0 murdock.tiscali.com
 0.0.0.0 barakus.tiscali.com
 0.0.0.0 ans3.tiscali.nl
 0.0.0.0 ans2.tiscali.nl
@@ -2490,39 +2488,18 @@
 0.0.0.0 adrastea.xerox.com
 0.0.0.0 beta.xerox.com
 0.0.0.0 carme.xerox.com
-0.0.0.0 nameserver1.concentric.net
-0.0.0.0 nameserver2.concentric.net
-0.0.0.0 nameserver3.concentric.net
-0.0.0.0 nameserver.concentric.net
 0.0.0.0 ns2.lewiston.k12.id.us
 0.0.0.0 ns1.lewiston.k12.id.us
-0.0.0.0 ns1.lewiston.k12.id.us
-0.0.0.0 ns2.dacom.co.kr
-0.0.0.0 nis.dacom.co.kr
-0.0.0.0 g.dns.kr
-0.0.0.0 d.dns.kr
-0.0.0.0 e.dns.kr
-0.0.0.0 f.dns.kr
-0.0.0.0 b.dns.kr
-0.0.0.0 c.dns.kr
-0.0.0.0 ns2.xs4all.nl	
+0.0.0.0 ns2.xs4all.nl
 0.0.0.0 ns.xs4all.nl
-0.0.0.0 ns.ptt.js.cn
-0.0.0.0 ns.jsinfo.net
-0.0.0.0 ns2.yipes.com
-0.0.0.0 ns1.yipes.com
 0.0.0.0 ns2.sjl.youtube.com
 0.0.0.0 ns1.sjl.youtube.com
-0.0.0.0 ns.zjnbptt.net.cn
-0.0.0.0 dns-noc.zjhzptt.net.cn
 0.0.0.0 kanin.arnes.si
 0.0.0.0 dns.yunac.yu
 0.0.0.0 ns2.register-it.net
 0.0.0.0 ns1.zeblach.pl
 0.0.0.0 ns1.enforta.com
 0.0.0.0 ns2.enforta.com
-0.0.0.0 ns1.zen.co.uk
-0.0.0.0 ns0.zen.co.uk
 0.0.0.0 solar.zeork.com.pl
 0.0.0.0 zeork.zeork.com.pl
 0.0.0.0 dns1.zzidc.com
