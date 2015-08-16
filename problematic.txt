@@ -1,5 +1,6 @@
-The following addresses may break some providers/dns and are excluded from the main HOSTS file:
------------------------------------------------------------------------------------------------
+The following addresses may break some providers and are excluded from the HOSTS file:
+--------------------------------------------------------------------------------------
+
 
 # Deutsche Telekom AG [NSA-affiliated IP ranges]
 79.192.0.0 - 79.244.191.255
@@ -45,14 +46,15 @@ ns2.google.com [216.239.34.10]
 
 
 # YahhooooooooOooOo [NSA-affiliated IP ranges]
-0.0.0.0 ns4.yahoo.com
-0.0.0.0 ns2.yahoo.com
-0.0.0.0 ns5.yahoo.com
-0.0.0.0 ns1.yahoo.com
-0.0.0.0 ns3.yahoo.com
+0.0.0.0 ns4.yahoo.com [68.142.196.63]
+0.0.0.0 ns2.yahoo.com [68.142.255.16]
+0.0.0.0 ns5.yahoo.com [216.109.116.17]
+0.0.0.0 ns1.yahoo.com [66.218.71.63]
+0.0.0.0 ns3.yahoo.com [217.12.4.104]
+0.0.0.0 ns2.yipes.com [66.7.155.198]
 
 
-# Offical NSA Homepage
+# NSA [NSA Homepage]
 63.239.67.11
 23.76.132.226
 65.222.202.53
@@ -64,5 +66,13 @@ ns2.google.com [216.239.34.10]
 0.0.0.0 dns2.vodafone.de
 0.0.0.0 dns1.vodafone.de
 #0.0.0.0 web.vodafone.de
+
+
+Bank of America [NSA-affiliated IP ranges]
+Concord CA US
+171.128.0.0 – 171.206.255.255
+ns3.bankofamerica.com [171.161.160.15]
+ns4.bankofamerica.com [171.159.192.15]
+ns1.bankofamerica.com [171.159.64.15]
 
 

@@ -2,7 +2,7 @@
 # License:									The MIT License (MIT)
 # File encoding: 							UTF-8 Dos/Windows 1252
 # Original maintainer:						CHEF-KOCH
-# Version:									000000000002
+# Version:									000000000003
 # Homepage: 								http://chef-koch.github.io/NSABlocklist
 #
 127.0.0.1 localhost							#[IPv4 only]
@@ -245,9 +245,6 @@
 0.0.0.0 ns.bahnhof.se
 0.0.0.0 auth2.ns.enitel.net
 0.0.0.0 auth1.ns.enitel.net
-0.0.0.0 ns3.bankofamerica.com
-0.0.0.0 ns4.bankofamerica.com
-0.0.0.0 ns1.bankofamerica.com
 0.0.0.0 ns1.barak.net.il
 0.0.0.0 ns.barak.net.il
 0.0.0.0 ns1.skyinet.net
@@ -2493,4 +2490,41 @@
 0.0.0.0 adrastea.xerox.com
 0.0.0.0 beta.xerox.com
 0.0.0.0 carme.xerox.com
+0.0.0.0 nameserver1.concentric.net
+0.0.0.0 nameserver2.concentric.net
+0.0.0.0 nameserver3.concentric.net
+0.0.0.0 nameserver.concentric.net
+0.0.0.0 ns2.lewiston.k12.id.us
+0.0.0.0 ns1.lewiston.k12.id.us
+0.0.0.0 ns1.lewiston.k12.id.us
+0.0.0.0 ns2.dacom.co.kr
+0.0.0.0 nis.dacom.co.kr
+0.0.0.0 g.dns.kr
+0.0.0.0 d.dns.kr
+0.0.0.0 e.dns.kr
+0.0.0.0 f.dns.kr
+0.0.0.0 b.dns.kr
+0.0.0.0 c.dns.kr
+0.0.0.0 ns2.xs4all.nl	
+0.0.0.0 ns.xs4all.nl
+0.0.0.0 ns.ptt.js.cn
+0.0.0.0 ns.jsinfo.net
+0.0.0.0 ns2.yipes.com
+0.0.0.0 ns1.yipes.com
+0.0.0.0 ns2.sjl.youtube.com
+0.0.0.0 ns1.sjl.youtube.com
+0.0.0.0 ns.zjnbptt.net.cn
+0.0.0.0 dns-noc.zjhzptt.net.cn
+0.0.0.0 kanin.arnes.si
+0.0.0.0 dns.yunac.yu
+0.0.0.0 ns2.register-it.net
+0.0.0.0 ns1.zeblach.pl
+0.0.0.0 ns1.enforta.com
+0.0.0.0 ns2.enforta.com
+0.0.0.0 ns1.zen.co.uk
+0.0.0.0 ns0.zen.co.uk
+0.0.0.0 solar.zeork.com.pl
+0.0.0.0 zeork.zeork.com.pl
+0.0.0.0 dns1.zzidc.com
+0.0.0.0 dns2.zzidc.com
 # NSA Blocklist ends here
