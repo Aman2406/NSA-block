@@ -5,11 +5,11 @@
 # Version:									000000000003
 # Homepage: 								http://chef-koch.github.io/NSABlocklist
 #
-127.0.0.1 localhost #[IPv4 only]
-127.0.0.1 localhost.localdomain #compatibility
-#127.0.0.1 255.255.255.255 broadcasthost #depcreated
-#::1 localhost #[IPv6 only]
-#127.0.0.1 local #depcreated
+127.0.0.1 localhost 					#[IPv4 only]
+127.0.0.1 localhost.localdomain 			#compatibility
+#127.0.0.1 255.255.255.255 broadcasthost	#depcreated
+#::1 localhost								#[IPv6 only]
+#127.0.0.1 local 							#depcreated
 
 # NSA Blocklist begins here
 0.0.0.0 ns4.1-800-hosting.com

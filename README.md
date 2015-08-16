@@ -77,8 +77,8 @@ Project History
 References
 ------------
 
-* [Cryptome](http://cryptome.info/0001/ip-tla.htm)
-* [33bits](http://33bits.org/)
+* [Cryptome | http://cryptome.org/](http://cryptome.info/0001/ip-tla.htm)
+* [33bits | 33bits.org](http://33bits.org/)
 * [Randomtalker web-privacy](http://randomwalker.info/web-privacy/)
 * [Free Haven's Selected Papers in Anonymity](http://freehaven.net/anonbib/)
 * [NSA Spying | Electronic Frontier Foundation](https://www.eff.org/de/nsa-spying)
