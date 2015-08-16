@@ -1,6 +1,36 @@
 The following addresses may break some providers and are excluded from the HOSTS file:
 --------------------------------------------------------------------------------------
 
+# NSA [NSA Homepage]
+nsa.gov [23.76.132.226, 2001:590:140a:388::19ff, 2001:590:140a:38c::19ff]
+dsdn-gh1-uea05.nsa.gov (63.239.67.11)
+dsdn-gh1-uea06.nsa.gov (63.239.65.41)
+emvm-gh1-uea08.nsa.gov (63.239.67.9)
+emvm-gh1-uea09.nsa.gov (63.239.67.10)
+63.239.67.11
+23.76.132.226
+65.222.202.53
+12.120.3.169
+23.76.128.0 - 23.76.143.255
+
+# F.B.I. [F.B.I. Homepage]
+FBI.gov [69.58.186.114, 2001:4801:7901:0:6969:2b9e:0:1]
+69.58.176.0 - 69.58.191.255
+a3.fbi.gov (69.36.145.33)
+a1.fbi.gov (209.112.113.33)
+a2.fbi.gov (209.112.114.33)
+ns2.digimedia.com
+ns1.digimedia.com
+
+
+# C.I.A. [C.I.A. Homepage]
+cia.gov [23.50.66.76,2600:1400:a:180::184d, 2600:1400:a:19f::184d]
+a1-22.akam.net [193.108.91.22]
+a16-67.akam.net [23.211.132.67]
+a12-65.akam.net [184.26.160.65]
+a13-65.akam.net [2.22.230.65]
+a3-64.akam.net [96.7.49.64]
+a22-66.akam.net [23.211.61.66]
 
 # Deutsche Telekom AG [NSA-affiliated IP ranges]
 79.192.0.0 - 79.244.191.255
@@ -54,14 +84,6 @@ ns2.google.com [216.239.34.10]
 0.0.0.0 ns2.yipes.com [66.7.155.198]
 
 
-# NSA [NSA Homepage]
-63.239.67.11
-23.76.132.226
-65.222.202.53
-12.120.3.169
-0.0.0.0 nsa.gov
-
-
 # Vodafone [NSA-affiliated IP ranges]
 0.0.0.0 dns2.vodafone.de
 0.0.0.0 dns1.vodafone.de
@@ -76,10 +98,6 @@ ns4.bankofamerica.com [171.159.192.15]
 ns1.bankofamerica.com [171.159.64.15]
 
 
-# F.B.I. [F.B.I. Homepage]
-fbi.com
-FBI.gov 
-ns2.digimedia.com
-ns1.digimedia.com
+
 
 
