@@ -2,7 +2,7 @@
 # License:									The MIT License (MIT)
 # File encoding: 							UTF-8 Dos/Windows 1252
 # Original maintainer:						CHEF-KOCH
-# Version:									000000000006
+# Version:									000000000007
 # Homepage: 								http://chef-koch.github.io/NSABlocklist
 #
 127.0.0.1 localhost #[IPv4 only]
@@ -2511,6 +2511,8 @@
 0.0.0.0 et-7-3-0.nyc41.ip4.gtt.net
 0.0.0.0 et-4-1-0.fra28.ip4.gtt.net
 0.0.0.0 de-cix.fra.as13335.net
+0.0.0.0 ns2.edgecastcdn.net
+0.0.0.0 ns1.edgecastcdn.net
 # GOV Pages only
 0.0.0.0 ABERDEENWA.GOV
 0.0.0.0 ABINGDON-VA.GOV
