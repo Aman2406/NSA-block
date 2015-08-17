@@ -2,7 +2,7 @@
 # License:									The MIT License (MIT)
 # File encoding: 							UTF-8 Dos/Windows 1252
 # Original maintainer:						CHEF-KOCH
-# Version:									000000000005
+# Version:									000000000006
 # Homepage: 								http://chef-koch.github.io/NSABlocklist
 #
 127.0.0.1 localhost #[IPv4 only]
@@ -23,9 +23,6 @@
 0.0.0.0 newjunk4u.com
 0.0.0.0 suddenplot.com
 0.0.0.0 ns2.21vianet.com.cn
-#0.0.0.0 ns1.edgecastcdn.net 	#[needs investigation]
-#0.0.0.0 ns2.edgecastcdn.net 	#[needs investigation]
-#0.0.0.0 w4.hackademix.net 		#[needs investigation]
 0.0.0.0 martinharrigan.ie
 0.0.0.0 andyshora.com
 0.0.0.0 monster-ads.net

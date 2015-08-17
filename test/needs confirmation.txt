@@ -47,6 +47,7 @@
 64.225.* Do not scan
 64.226.* Do not scan
 
+65.222.202.53 Baneki Privacy Labs 
 
 128.37.0.0 Army Yuma Proving Ground
 128.38.0.0 Naval Surface Warfare Center
@@ -2139,3 +2140,10 @@ Do Not Scan:216.25.0.0-216.25.255.255
 Do Not Scan:216.247.0.0-216.247.255.255
 Do Not Scan:216.248.0.0-216.248.255.255
 Do Not Scan:217.6.0.0-217.6.255.255
+
+
+
+#0.0.0.0 ns1.edgecastcdn.net 	#[needs investigation]
+#0.0.0.0 ns2.edgecastcdn.net 	#[needs investigation]
+#0.0.0.0 w4.hackademix.net 		#[needs investigation]
+#0.0.0.0 w4.hackademix.net 		#[needs investigation]

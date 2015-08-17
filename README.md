@@ -96,6 +96,7 @@ References
 * [Sensitive IP addresses | Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Sensitive_IP_addresses)
 * [Do Not Scan - Government IP list | PeerBlock Forums](http://forums.peerblock.com/read.php?8,14794,14794)
 * [Hardened user.js for Firefox to stop data leackage](https://github.com/pyllyukko/user.js)
+* [Firefox Zero-Day Exploit used by FBI to shutdown Child porn on Tor Network hostin; Tor Mail Compromised](https://thehackernews.com/2013/08/Firefox-Exploit-Tor-Network-child-pornography-Freedom-Hosting.html)
 * [Entire set of 5,300 .gov domains as .csv file | GitHub.com](https://gsa.github.io/data/dotgov-domains/2014-12-01-full.csv)
 
 
