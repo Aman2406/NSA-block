@@ -81,6 +81,7 @@ Project History
 References
 ------------
 
+* [Patriot Act | Wikipedia](https://en.wikipedia.org/wiki/USA_PATRIOT_Act)
 * [Cryptome | cryptome.org](http://cryptome.info/0001/ip-tla.htm)
 * [NSA's Autonomous Systems (AS),](https://www.robtex.net/?_escaped_fragment_=dns%3Dnsa.gov#!dns=nsa.gov)
 * [33bits | 33bits.org](http://33bits.org/)
@@ -101,6 +102,12 @@ References
 * [Hardened user.js for Firefox to stop data leackage | GitHub](https://github.com/pyllyukko/user.js)
 * [Firefox Zero-Day Exploit used by FBI to shutdown Child porn on Tor Network hostin; Tor Mail Compromised](https://thehackernews.com/2013/08/Firefox-Exploit-Tor-Network-child-pornography-Freedom-Hosting.html)
 * [Entire set of 5,300 .gov domains as .csv file | GitHub](https://gsa.github.io/data/dotgov-domains/2014-12-01-full.csv)
+
+
+Provider
+------------
+
+* [AT&T](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
 
 
 **Thanks goes to everyone which fights for www. security! Give spying no chance!**
