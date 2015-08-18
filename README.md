@@ -63,7 +63,8 @@ ToDo:
 Utils
 ------------
 
-* [TCPIPUTILS.com](http://www.tcpiputils.com/)
+* [TCPIPUTILS](http://www.tcpiputils.com/)
+* [Robtex](https://www.robtex.com)
 * [ZMap - The Internet Scanner](https://zmap.io/)
 * tracert nsa.gov, see [how TRACERT command works](http://support.microsoft.com/?kbid=162326)
 
@@ -71,7 +72,8 @@ Utils
 Project History
 ------------
 
-- [x] 16.08.2015 Removed some duplicates and added new domains, small Readme changes
+- [x] 18.08.2015 More domains added 7821 in total
+- [x] 16.08.2015 Removed some duplicates and added new domains, small Readme.md changes
 - [x] 15.08.2015 Created a new start page chef-koch.github.io/NSABlocklist
 - [x] 14.08.2015 Initial upload of the entire project and small Readme.md corrections
 
@@ -89,16 +91,16 @@ References
 * [NSA Spying | Electronic Frontier Foundation](https://www.eff.org/de/nsa-spying)
 * [Mobile Security Wiki | mobilesecuritywiki.com](https://mobilesecuritywiki.com/)
 * [Researcher at Kaspersky Labs have discovered a list of domains used by the NSA to install malware on victim's PC around the world.](https://www.hackread.com/here-is-a-list-of-urls-used-by-the-nsa-to-install-malware-on-pcs-worldwide/)
-* [NSA PRISM Keywords For Domestic Spying - Business Insider](http://www.businessinsider.com/nsa-prism-keywords-for-domestic-spying-2013-6?IR=T)
-* [Windows and the backdoor question from 1999](http://edition.cnn.com/TECH/computing/9909/03/windows.nsa.02/)
-* [Psssst: Wanna Buy a Used Spy Website?](http://www.wired.com/2015/03/nsa_domains/)
-* [Understanding NSA Malware - Schneier on Security](https://www.schneier.com/blog/archives/2015/02/understanding_n.html)
-* [Check if NSA warrantless surveillance is looking at your IP traffic](http://www.lookingglassnews.org/viewstory.php?storyid=6861)
+* [NSA PRISM Keywords For Domestic Spying | Business Insider](http://www.businessinsider.com/nsa-prism-keywords-for-domestic-spying-2013-6?IR=T)
+* [Windows and the backdoor question from 1999 | CNN](http://edition.cnn.com/TECH/computing/9909/03/windows.nsa.02/)
+* [Psssst: Wanna Buy a Used Spy Website? | Wired](http://www.wired.com/2015/03/nsa_domains/)
+* [Understanding NSA Malware | Schneier on Security](https://www.schneier.com/blog/archives/2015/02/understanding_n.html)
+* [Check if NSA warrantless surveillance is looking at your IP traffic | Lookingglassnews](http://www.lookingglassnews.org/viewstory.php?storyid=6861)
 * [Sensitive IP addresses | Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Sensitive_IP_addresses)
 * [Do Not Scan - Government IP list | PeerBlock Forums](http://forums.peerblock.com/read.php?8,14794,14794)
-* [Hardened user.js for Firefox to stop data leackage](https://github.com/pyllyukko/user.js)
+* [Hardened user.js for Firefox to stop data leackage | GitHub](https://github.com/pyllyukko/user.js)
 * [Firefox Zero-Day Exploit used by FBI to shutdown Child porn on Tor Network hostin; Tor Mail Compromised](https://thehackernews.com/2013/08/Firefox-Exploit-Tor-Network-child-pornography-Freedom-Hosting.html)
-* [Entire set of 5,300 .gov domains as .csv file | GitHub.com](https://gsa.github.io/data/dotgov-domains/2014-12-01-full.csv)
+* [Entire set of 5,300 .gov domains as .csv file | GitHub](https://gsa.github.io/data/dotgov-domains/2014-12-01-full.csv)
 
 
 **Thanks goes to everyone which fights for www. security! Give spying no chance!**

@@ -22,7 +22,7 @@ dns01.btx.dtag.de [194.25.2.130]
 
 # Google [NSA-affiliated IP ranges]
 Mountain View CA US
-64.233.160.0 - 64.233.191.255
+64.233.167.0 - 64.233.167.255
 66.102.0.0 - 66.102.15.255
 66.249.64.0 - 66.249.95.255
 72.14.192.0 - 72.14.255.255
@@ -31,6 +31,7 @@ Mountain View CA US
 ns3.google.com [216.239.36.10]
 ns4.google.com [216.239.38.10]
 ns1.google.com [216.239.32.10]
+ns3.google.com [64.233.167.0/24]
 ns2.google.com [216.239.34.10]
 
 
