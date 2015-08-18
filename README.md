@@ -104,10 +104,25 @@ References
 * [Entire set of 5,300 .gov domains as .csv file | GitHub](https://gsa.github.io/data/dotgov-domains/2014-12-01-full.csv)
 
 
-Provider
+Providers
 ------------
 
-* [AT&T](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
+* [AT&T helped to spy on an array of internet traffic | The New York Times](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
+* Telecom
+* Vodafone
+* E-Plus / O2
+* Google 
+
+
+Other services providers
+
+------------
+* Facebook
+* MySpace
+* Google
+* Amazon
+* Microsoft 
+* Apple
 
 
 **Thanks goes to everyone which fights for www. security! Give spying no chance!**
