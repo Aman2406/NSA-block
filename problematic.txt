@@ -112,3 +112,10 @@ a22-66.akam.net [23.211.61.66]
 198.81.128.0/18 198.81.128.0 - 198.81.191.255
 
 
+Digital Ocean, Inc. [NSA-affiliated IP ranges]
+ns3.digitalocean.com (198.41.222.173)
+ns1.digitalocean.com (173.245.58.51)
+ns2.digitalocean.com (173.245.59.41)
+104.236.192.0/18
+104.236.192.0 - 104.236.255.255
+

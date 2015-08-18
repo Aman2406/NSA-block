@@ -112,13 +112,15 @@ Providers
 * Telecom / T-Mobile 
 * Vodafone
 * E-Plus / O2
-* Google 
+* Alphabet
+* Digital Ocean, Inc.s
 
 
 Backbone Providers
 ------------
 
 * AT&T
+* ATM S.A.
 * Cable & Wireless
 * Global Crossing
 * Comcast
@@ -127,7 +129,9 @@ Backbone Providers
 * Level 3 / Level 2 / Level 1
 * NTT Communications
 * SAVVIS Communications
-* Verizon Communications 
+* Net By Net Holding LLC
+* Verizon Communications
+* ATM-Telekom
 
 
 Other services providers
