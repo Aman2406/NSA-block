@@ -14,6 +14,10 @@
 
 # NSABlocklist begins here
 0.0.0.0 skewednews.net
+0.0.0.0 open-tx.org
+0.0.0.0 razor-qt.org
+0.0.0.0 nickknowlson.com
+0.0.0.0 springfuse.com
 0.0.0.0 ns4.1-800-hosting.com
 0.0.0.0 ns3.1-800-hosting.com
 0.0.0.0 ns2.1-800-hosting.com
@@ -25,6 +29,8 @@
 0.0.0.0 suddenplot.com
 0.0.0.0 ns2.21vianet.com.cn
 0.0.0.0 martinharrigan.ie
+0.0.0.0 dns1.wiresix.com
+0.0.0.0 dns2.wiresix.com
 0.0.0.0 andyshora.com
 0.0.0.0 monster-ads.net
 0.0.0.0 nickleplatedads.com
