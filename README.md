@@ -124,7 +124,7 @@ Backbone Providers
 * Comcast
 * Cox Communications
 * Sprint Nextel
-* Level 3
+* Level 3 / Level 2 / Level 1
 * NTT Communications
 * SAVVIS Communications
 * Verizon Communications 
@@ -138,6 +138,26 @@ Other services providers
 * Amazon
 * Microsoft 
 * Apple
+* Wikipedia, well it's for all but also constantly watched 
 
+
+Spying systems
+------------
+
+* [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
+* [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
+* [ECHELON](https://en.wikipedia.org/wiki/ECHELON)
+* [Carnivore](https://en.wikipedia.org/wiki/Carnivore_(software))
+* [DISHFIRE](https://en.wikipedia.org/wiki/DISHFIRE)
+* [STONEGHOST](https://en.wikipedia.org/wiki/STONEGHOST)
+* [Tempora](https://en.wikipedia.org/wiki/Tempora)
+* [Frenchelon](https://en.wikipedia.org/wiki/Frenchelon)
+* [Fairview](https://en.wikipedia.org/wiki/Fairview_(surveillance_program))
+* [MYSTIC](https://en.wikipedia.org/wiki/MYSTIC_(surveillance_program))
+* [Boundless Informant](https://en.wikipedia.org/wiki/Boundless_Informant)
+* [BULLRUN](https://en.wikipedia.org/wiki/BULLRUN)
+* [PINWALE](https://en.wikipedia.org/wiki/PINWALE)
+* [Stingray](https://en.wikipedia.org/wiki/Stingray_phone_tracker)
+ 
 
 **Thanks goes to everyone which fights for www. security! Give spying no chance!**
