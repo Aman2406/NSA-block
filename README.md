@@ -72,6 +72,7 @@ Utils
 Project History
 ------------
 
+- [x] 19.08.2015 Added Backbone Providers and other involved services
 - [x] 18.08.2015 More domains added 7821 in total
 - [x] 16.08.2015 Removed some duplicates and added new domains, small Readme.md changes
 - [x] 15.08.2015 Created a new start page chef-koch.github.io/NSABlocklist
@@ -81,7 +82,7 @@ Project History
 References
 ------------
 
-* [Patriot Act | Wikipedia](https://en.wikipedia.org/wiki/USA_PATRIOT_Act)
+* [Patriot Act | Wikipedia](https://en.wikipedia.org/wiki/USA_PATRIOT_Act) + CALEA act
 * [Cryptome | cryptome.org](http://cryptome.info/0001/ip-tla.htm)
 * [NSA's Autonomous Systems (AS),](https://www.robtex.net/?_escaped_fragment_=dns%3Dnsa.gov#!dns=nsa.gov)
 * [33bits | 33bits.org](http://33bits.org/)
@@ -108,18 +109,32 @@ Providers
 ------------
 
 * [AT&T helped to spy on an array of internet traffic | The New York Times](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
-* Telecom
+* Telecom / T-Mobile 
 * Vodafone
 * E-Plus / O2
 * Google 
 
 
-Other services providers
+Backbone Providers
+------------
 
+* AT&T
+* Cable & Wireless
+* Global Crossing
+* Comcast
+* Cox Communications
+* Sprint Nextel
+* Level 3
+* NTT Communications
+* SAVVIS Communications
+* Verizon Communications 
+
+
+Other services providers
 ------------
 * Facebook
 * MySpace
-* Google
+* [Google](http://www.salon.com/2014/11/16/googles_secret_nsa_alliance_the_terrifying_deals_between_silicon_valley_and_the_security_state/)
 * Amazon
 * Microsoft 
 * Apple
