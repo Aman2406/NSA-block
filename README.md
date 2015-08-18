@@ -134,7 +134,7 @@ Other services providers
 ------------
 * Facebook
 * MySpace
-* [Google](http://www.salon.com/2014/11/16/googles_secret_nsa_alliance_the_terrifying_deals_between_silicon_valley_and_the_security_state/)
+* [Google Inc. aka Alphabet](http://www.salon.com/2014/11/16/googles_secret_nsa_alliance_the_terrifying_deals_between_silicon_valley_and_the_security_state/)
 * Amazon
 * Microsoft 
 * Apple
