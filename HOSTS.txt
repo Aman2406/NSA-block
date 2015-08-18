@@ -13,6 +13,7 @@
 #
 
 # NSABlocklist begins here
+0.0.0.0 skewednews.net
 0.0.0.0 ns4.1-800-hosting.com
 0.0.0.0 ns3.1-800-hosting.com
 0.0.0.0 ns2.1-800-hosting.com
