@@ -2,7 +2,7 @@
 # License:									The MIT License (MIT)
 # File encoding: 							UTF-8 Dos/Windows 1252
 # Original maintainer:						CHEF-KOCH
-# Version:									000000000007
+# Version:									000000000008
 # Homepage: 								http://chef-koch.github.io/NSABlocklist
 #
 127.0.0.1 localhost #[IPv4 only]
