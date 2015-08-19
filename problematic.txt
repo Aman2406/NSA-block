@@ -33,6 +33,8 @@ ns4.google.com [216.239.38.10]
 ns1.google.com [216.239.32.10]
 ns3.google.com [64.233.167.0/24]
 ns2.google.com [216.239.34.10]
+autobinarysignals.com / aspmx3.googlemail.com 
+/ walt.ns.cloudflare.com / others for gmail
 
 
 # AOL [NSA-affiliated IP ranges]
