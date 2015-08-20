@@ -16,6 +16,8 @@
 0.0.0.0 ns1.automattic.com
 0.0.0.0 ns3.automattic.com
 0.0.0.0 ns2.automattic.com
+0.0.0.0 dns.ns1.edgecastcdn.net
+0.0.0.0 dns.ns2.edgecastcdn.net
 0.0.0.0 skewednews.net
 0.0.0.0 open-tx.org
 0.0.0.0 razor-qt.org
