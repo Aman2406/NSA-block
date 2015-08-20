@@ -50,10 +50,10 @@ Any problems, questions or something wrong?
 Contact
 ------------
 
------BEGIN PGP PUBLIC KEY BLOCK-----
-Version: Mailvelope v1.0.0
-Comment: https://www.mailvelope.com
-
+-----BEGIN PGP PUBLIC KEY BLOCK-----<br>
+Version: Mailvelope v1.0.0<br>
+Comment: https://www.mailvelope.com<br>
+<br>
 xsFNBFXT9HEBEACnEW4r9jM0EmtlOhl636rhjjr0n5fTIQEvnvQZS9mhorQy
 8cQChlecde34q9DeBrQRetdwguBFoOiTk3OkN10txcMzH8P76RaJRhYpH1cC
 Vfps9lBNn77UQq4HFKjzCrq67XPnufLYaC9pJh9DFHGewap423vmP0UfoMPw
@@ -103,7 +103,7 @@ O5z2buzy2VyLBmwGyTVHSa0MGJwgXrbWUZipX3B8q4WfwOq8Qfck55p1Y25N
 gM/I3LtcW8pscg6kuEnqK32zgjCalvZSPXYEIsnHTf4iuIEndiKrPSXhTrnu
 PTIWulNdhQXmdSHWGjYNZtfZK6qmXWfw1RBn9UKbfQJxjWqD6TX9MXd2I1eG
 JJwKGiJZhMTa5wVxWKeobLEVy/SB2/2m/it/nSa96bziN0q6qPCi7+Rt
-=WgaG
+=WgaG<br>
 -----END PGP PUBLIC KEY BLOCK-----
 
 
