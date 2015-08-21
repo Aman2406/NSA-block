@@ -61,6 +61,7 @@ dns2.vodafone.de
 dns1.vodafone.de
 #web.vodafone.de
 #wap.vodafone.de
+#beta.vodafone.de
 
 
 Bank of America [NSA-affiliated IP ranges]
