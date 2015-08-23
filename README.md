@@ -103,7 +103,12 @@ References
 * [Do Not Scan - Government IP list | PeerBlock Forums](http://forums.peerblock.com/read.php?8,14794,14794)
 * [Hardened user.js for Firefox to stop data leackage | GitHub](https://github.com/pyllyukko/user.js)
 * [Firefox Zero-Day Exploit used by FBI to shutdown Child porn on Tor Network hostin; Tor Mail Compromised](https://thehackernews.com/2013/08/Firefox-Exploit-Tor-Network-child-pornography-Freedom-Hosting.html)
-* [Entire set of 5,300 .gov domains as .csv file | GitHub](https://gsa.github.io/data/dotgov-domains/2014-12-01-full.csv)
+* [Entire set of 5,300+ .gov domains as .csv file | GitHub](https://gsa.github.io/data/dotgov-domains/2014-12-01-full.csv)
+* [SS7 hack shown demonstrated to track anyone | 60 Minutes](http://www.9jumpin.com.au/show/60minutes/stories/2015/august/phone-hacking/)
+* [SSL Blacklist](https://sslbl.abuse.ch/blacklist/)
+* [MITM-Proxy](https://mitmproxy.org/doc/howmitmproxy.html) + [Lagado proxy test](http://www.lagado.com/proxy-test) + [Lagado cache test](http://www.lagado.com/tools/cache-test)
+* [Detect Superfish, Komodia and Privdog | filippo](https://filippo.io/Badfish/)
+* [SSL eye prism protection | digi77](https://www.digi77.com/ssl-eye-prism-protection/)
 
 
 Providers
@@ -116,6 +121,7 @@ Providers
 * Alphabet
 * Digital Ocean, Inc.s
 * TM Net, Internet Service Provider
+* REN
 
 
 Backbone Providers
@@ -140,12 +146,13 @@ Other services providers
 ------------
 * Facebook
 * MySpace
-* [Google Inc. aka Alphabet](http://www.salon.com/2014/11/16/googles_secret_nsa_alliance_the_terrifying_deals_between_silicon_valley_and_the_security_state/)
+* [Google Inc. alias Alphabet](http://www.salon.com/2014/11/16/googles_secret_nsa_alliance_the_terrifying_deals_between_silicon_valley_and_the_security_state/)
 * Amazon
 * Microsoft 
 * Apple
-* Wikipedia, well it's for all but also constantly watched
+* Wikipedia, well it's for all
 * Automattic, Inc
+* LLC 
 
 
 Spying systems
@@ -165,6 +172,7 @@ Spying systems
 * [BULLRUN](https://en.wikipedia.org/wiki/BULLRUN)
 * [PINWALE](https://en.wikipedia.org/wiki/PINWALE)
 * [Stingray](https://en.wikipedia.org/wiki/Stingray_phone_tracker)
+* APEX 
  
 
 **Thanks goes to everyone which fights for www. security! Give spying no chance!**
