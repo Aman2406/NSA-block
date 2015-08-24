@@ -165,14 +165,15 @@ Spying systems
 * [DISHFIRE](https://en.wikipedia.org/wiki/DISHFIRE)
 * [STONEGHOST](https://en.wikipedia.org/wiki/STONEGHOST)
 * [Tempora](https://en.wikipedia.org/wiki/Tempora)
-* [Frenchelon](https://en.wikipedia.org/wiki/Frenchelon)
+* [Frenchelon](https://en.wikipedia.org/wiki/Frenchelon) Active-Passive-Exfilration (APEX)
 * [Fairview](https://en.wikipedia.org/wiki/Fairview_(surveillance_program))
 * [MYSTIC](https://en.wikipedia.org/wiki/MYSTIC_(surveillance_program))
 * [Boundless Informant](https://en.wikipedia.org/wiki/Boundless_Informant)
 * [BULLRUN](https://en.wikipedia.org/wiki/BULLRUN)
 * [PINWALE](https://en.wikipedia.org/wiki/PINWALE)
 * [Stingray](https://en.wikipedia.org/wiki/Stingray_phone_tracker)
-* APEX 
+* Traceroute "Packaged Goods" / "Treasure Map"
+* VOIP: Hammerchant
  
 
 **Thanks goes to everyone which fights for www. security! Give spying no chance!**

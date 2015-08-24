@@ -2,14 +2,14 @@
 # License:									The MIT License (MIT)
 # File encoding: 							UTF-8 Dos/Windows 1252
 # Original maintainer:						CHEF-KOCH
-# Version:									000000000008
+# Version:									000000000009
 # Homepage: 								http://chef-koch.github.io/NSABlocklist
 #
-127.0.0.1 localhost #[IPv4 only]
-127.0.0.1 localhost.localdomain
-#127.0.0.1 255.255.255.255 broadcasthost #depcreated
-#::1 localhost #[IPv6 only]
-#127.0.0.1 local #depcreated
+127.0.0.1 localhost						#[IPv4 only]
+127.0.0.1 localhost.localdomain			#
+127.0.0.1 255.255.255.255 broadcasthost #Unix/Mac serv.
+#::1 localhost							#[IPv6 only]
+#127.0.0.1 local 						#Unix only
 #
 
 # NSABlocklist begins here
@@ -7845,7 +7845,7 @@
 0.0.0.0 ZIONSVILLE-IN.GOV
 0.0.0.0 dsdn-gh1-uea05.nsa.gov
 0.0.0.0 dsdn-gh1-uea06.nsa.gov
-0.0.0.0 emvm-gh1-uea08.nsa.gov #[needs investigation]
+0.0.0.0 emvm-gh1-uea08.nsa.gov
 0.0.0.0 emvm-gh1-uea09.nsa.gov
 # /GOV Pages
 #/NSABlocklist ends here

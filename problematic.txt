@@ -62,6 +62,14 @@ dns1.vodafone.de
 #web.vodafone.de
 #wap.vodafone.de
 #beta.vodafone.de
+a.in-addr-servers.arpa (199.212.0.73)
+b.in-addr-servers.arpa (199.253.183.183)
+c.in-addr-servers.arpa (196.216.169.10)
+d.in-addr-servers.arpa (200.10.60.53)
+e.in-addr-servers.arpa (203.119.86.101)
+f.in-addr-servers.arpa (193.0.9.1)
+11.0.0.0/8
+11.0.0.0 - 11.255.255.255
 
 
 Bank of America [NSA-affiliated IP ranges]
