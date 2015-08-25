@@ -3,6 +3,7 @@ NSABlocklist© file original created under the MIT license 2015 by [CHEF-KOCH](h
 
 Description
 ------------
+
 This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from beeing connecting to you without permission, of course the IP's also can be used for PeerBlock or other tools. The list is not designed to block common malware, spyware or anything that is already avaible on the net via a proper designed hosts for such case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 
@@ -11,7 +12,8 @@ My list is original based on 2007 published Wikileaks documents and includes my 
 
 This project includes
 ------------
-* An '[HOSTS.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/HOSTS.txt)' file that includes all Servers/DNS domains that are known to be involved in spying. The confirmation is given within the _Research_ link at the bottom and with my own tests.
+
+* A '[HOSTS.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/HOSTS.txt)' file that includes all Servers/DNS domains that are known to be involved in spying. The confirmation is given within the _Research_ link at the bottom and with my own tests.
 * An '[Super Ranges.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/Super%20Ranges.txt)' file which includes a list of known IP ranges that are compromised (be careful with that!).
 * An '[LICENSE](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/LICENSE)' File to shows the MIT license.
 * The '[README](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/README.md)' (this) file that includes the latest news, updates and explanations,...
@@ -21,18 +23,21 @@ This project includes
 
 Important Notice
 ------------
+
 * A true list of compromised IPs would list the entire Internet, then on to the fuller range open mouth blabbering of blogs, email, chat rooms, texting, aided and abetted by the world's telecoms, postal services, and, most reliably, bedroom  murmurings.
 * I do not accept donations, I'm not doing this because I want $$money or hype I'm doing this because I didn't found a proper list on the whole internet and of course I want to share my knowledge for free. I always think that such information should be available for everyone on the world.
 
 
 Do you hate the NSA or other agencies?
 ------------
+
 * I do not _hate_ the NSA or other agencies but I really don't like that everyone is automatically under the microscope and of course that there is no opt-out or transparency excpect lies and more lies (and some excuses ...yeah, we are doing this because terrorism, go f$ck yourself with such statements!)
 * Everyone have something to hide, passwords, privat data, accounts, ....
 
 
 Known problems
 ------------
+
 * An hosts file is no guarantee, if NSA is already in your system it's just to late.
 * HOSTS files are no guarantee that NSA or any other attacker/organization could simply bypass it via 0day or other vulnerabilitys on your system/router.
 * HOSTS files can't protect against attacks directly in hardware, e.g. if the router is already compromised or comes with backdoors this list will be easily bypassed anyway.
@@ -109,6 +114,7 @@ References
 * [MITM-Proxy](https://mitmproxy.org/doc/howmitmproxy.html) + [Lagado proxy test](http://www.lagado.com/proxy-test) + [Lagado cache test](http://www.lagado.com/tools/cache-test)
 * [Detect Superfish, Komodia and Privdog | filippo](https://filippo.io/Badfish/)
 * [SSL eye prism protection | digi77](https://www.digi77.com/ssl-eye-prism-protection/)
+* [NSAPlaySet](http://www.nsaplayset.org/)
 
 
 Providers
