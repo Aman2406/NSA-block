@@ -88,6 +88,8 @@ Project History
 References
 ------------
 
+* [The NSA files | The Guardian](http://www.theguardian.com/us-news/the-nsa-files)
+* [Unofficial page to search E. Snowden leaked documents](https://search.edwardsnowden.com/)
 * [Patriot Act | Wikipedia](https://en.wikipedia.org/wiki/USA_PATRIOT_Act) + CALEA act
 * [Cryptome | cryptome.org](http://cryptome.info/0001/ip-tla.htm)
 * [NSA's Autonomous Systems (AS),](https://www.robtex.net/?_escaped_fragment_=dns%3Dnsa.gov#!dns=nsa.gov)
@@ -115,6 +117,8 @@ References
 * [Detect Superfish, Komodia and Privdog | filippo](https://filippo.io/Badfish/)
 * [SSL eye prism protection | digi77](https://www.digi77.com/ssl-eye-prism-protection/)
 * [NSAPlaySet](http://www.nsaplayset.org/)
+* [Global surveillance disclosures (2013–present) | Wikipedia](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present))
+* [Attacking Tor: how the NSA targets users' online anonymity |TheGuardian](http://www.theguardian.com/world/2013/oct/04/tor-attacks-nsa-users-online-anonymity)
 
 
 Providers
@@ -168,6 +172,7 @@ Spying systems
 * [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
 * [ECHELON](https://en.wikipedia.org/wiki/ECHELON)
 * [Carnivore](https://en.wikipedia.org/wiki/Carnivore_(software))
+* [MUSCULAR](https://en.wikipedia.org/wiki/MUSCULAR_(surveillance_program))
 * [DISHFIRE](https://en.wikipedia.org/wiki/DISHFIRE)
 * [STONEGHOST](https://en.wikipedia.org/wiki/STONEGHOST)
 * [Tempora](https://en.wikipedia.org/wiki/Tempora)
@@ -178,8 +183,17 @@ Spying systems
 * [BULLRUN](https://en.wikipedia.org/wiki/BULLRUN)
 * [PINWALE](https://en.wikipedia.org/wiki/PINWALE)
 * [Stingray](https://en.wikipedia.org/wiki/Stingray_phone_tracker)
+* [TURMOIL / Turbulence](https://en.wikipedia.org/wiki/Turbulence_(NSA))
+
+
+Spying programs
+------------
+
 * Traceroute "Packaged Goods" / "Treasure Map"
 * VOIP: Hammerchant
+* WEALTHYCLUSTER
+* APEX
+* ....
  
 
-**Thanks goes to everyone which fights for www. security! Give spying no chance!**
+**Thanks goes to everyone which are fighting for www. security! Give spying no chance!**
