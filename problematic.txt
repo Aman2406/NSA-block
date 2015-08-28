@@ -138,3 +138,12 @@ ns3.infonline.de (94.198.57.34)
 ns.infonline.de (193.46.63.18)
 ns2.infonline.de (91.215.103.53)
 ns4.infonline.de (213.239.198.168)
+
+
+# Horyzont Technologie Internetowe sp.z.o.o. [Wrong whois, possible faked ripe]
+185.52.170.16
+PTR: 16.170.52.185-rev.hti.pl
+dns0.hti.pl (217.168.128.21)
+dns1.hti.pl (217.168.128.121)
+185.52.170.0/24
+185.52.170.0 - 185.52.170.255
