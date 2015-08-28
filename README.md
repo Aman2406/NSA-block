@@ -150,6 +150,7 @@ Backbone Providers
 * Net By Net Holding LLC
 * Verizon Communications
 * ATM-Telekom
+* [IBM](https://cryptome.org/2015/08/ibm-stop-tor.pdf) 
 
 
 Other services providers
@@ -193,6 +194,7 @@ Spying programs
 * VOIP: Hammerchant
 * WEALTHYCLUSTER
 * APEX
+* COMSAT
 * ....
  
 
