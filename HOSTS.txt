@@ -71,6 +71,7 @@
 0.0.0.0 ns.lucky.net
 0.0.0.0 ns.adams.net
 0.0.0.0 lx.adams.net
+0.0.0.0 electronicfrontierfoundation.org
 0.0.0.0 ns2.acnusa.net
 0.0.0.0 ns1.acnusa.net
 0.0.0.0 ns2.eatel.net
