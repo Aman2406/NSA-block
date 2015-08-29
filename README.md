@@ -132,6 +132,7 @@ Providers
 * Digital Ocean, Inc.s
 * TM Net, Internet Service Provider
 * REN
+* Verizon
 
 
 Backbone Providers
@@ -156,6 +157,7 @@ Backbone Providers
 Other services providers
 ------------
 * Facebook
+* PushTalk / PalTalk
 * MySpace
 * [Google Inc. alias Alphabet](http://www.salon.com/2014/11/16/googles_secret_nsa_alliance_the_terrifying_deals_between_silicon_valley_and_the_security_state/)
 * Amazon
@@ -164,6 +166,7 @@ Other services providers
 * Wikipedia, well it's for all
 * Automattic, Inc
 * LLC 
+* Yahoo
 
 
 Spying systems
