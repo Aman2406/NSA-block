@@ -119,6 +119,8 @@ References
 * [NSAPlaySet](http://www.nsaplayset.org/)
 * [Global surveillance disclosures (2013–present) | Wikipedia](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present))
 * [Attacking Tor: how the NSA targets users' online anonymity |TheGuardian](http://www.theguardian.com/world/2013/oct/04/tor-attacks-nsa-users-online-anonymity)
+* [Google PDF Search: “not for public release”](https://www.google.com/search?as_q=&as_epq=not+for+public+release&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=pdf&as_rights=&gws_rd=ssl)
+
 
 
 Providers
