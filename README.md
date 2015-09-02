@@ -123,6 +123,24 @@ References
 
 
 
+Snowden documents compilations
+------------
+
+* https://search.edwardsnowden.com/
+* https://edwardsnowden.com/revelations/
+* http://cjfe.org/snowden
+* https://github.com/nsa-observer/documents/tree/master/files/pdf
+* https://www.aclu.org/nsa-documents-search
+* http://freesnowden.is/category/revealed-documents/index.html
+* https://www.eff.org/deeplinks/2013/11/nsa-spying-primary-sources
+* https://www.aclu.org/nsa-documents-released-public-june-2013
+* http://leaksource.wordpress.com/
+* https://nsa.gov1.info/dni/
+* https://fveydocs.org/
+* https://nsa.imirhil.fr/
+* https://www.aclu.org/nsa-documents-search
+
+
 Providers
 ------------
 
