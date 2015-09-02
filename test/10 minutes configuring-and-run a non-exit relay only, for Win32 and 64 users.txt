@@ -1,0 +1,91 @@
+Download the Tor Expert Bundle (Windows 8, 7, Vista, XP, 2000, 2003 Server, ME, and Windows 98SE). Contains just Tor and nothing else. You'll need to configure Tor and all of your applications manually. This installer must be run as Administrator.
+
+Download link:
+https://www.torproject.org/download/download
+https://dist.torproject.org/torbrowser/
+
+Create the folder TorRelay and put there all the TOR applications.
+
+C:\TorRelay
+C:\TorRelay\Data
+C:\TorRelay\Data\Tor
+geoip
+geoip6
+torrc to-be-created
+C:\TorRelay\Tor
+tor.exe
+libeay32.dll
+libevent-2-0-5.dll
+libevent_core-2-0-5.dll
+libevent_extra-2-0-5.dll
+libgcc_s_sjlj-1.dll
+libssp-0.dll
+ssleay32.dll
+zlib1.dll
+TORrelay.cmd to-be-created
+
+Run this command in a CMD window to obtain the HashedControlPassword to protect the torrc file from attackers:
+tor.exe --hash-password PASSWORD | more
+
+C:\TorRelay\Tor>tor --hash-password PASSWORD | more
+Aug 30 13:28:07.703 [notice] Tor v0.2.6.10 (git-cab52fe998909e08) running on Win
+dows XP with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Aug 30 13:28:07.703 [notice] Tor can't help you if you use it wrong! Learn how t
+o be safe at https://www.torproject.org/download/download#warning
+16:E6DDC7FE32A572DC60FF1750513AA9C9B99E0E77E9F023A989B2B36C31
+
+and copy the obtained hash in torrc (you can use any password).
+
+HashedControlPassword 16:E6DDC7FE32A572DC60FF1750513AA9C9B99E0E77E9F023A989B2B36C31
+
+Create the relay torrc file and put this file in C:\TorRelay\Data\Tor:
+
+Address xxx.xxx.xxx.xxx
+AvoidDiskWrites 1
+Nickname your-relay-name
+ContactInfo <contact@any.com>
+ORPort 9001
+DirPort 9030
+SocksPort 9050
+ControlPort 9151
+DataDirectory C:\TorRelay\Data\Tor
+GeoIPFile C:\TorRelay\Data\Tor\geoip
+GeoIPv6File C:\TorRelay\Data\Tor\geoip6
+## tor --hash-password PASSWORD
+HashedControlPassword 16:E6DDC7FE32A572DC60FF1750513AA9C9B99E0E77E9F023A989B2B36C31
+Log notice stdout
+NumEntryGuards 18
+RelayBandwidthBurst 5242880
+RelayBandwidthRate 5242880
+SafeSocks 1
+TestSocks 1
+NewCircuitPeriod 10
+CircuitBuildTimeout 30
+DirReqStatistics 0
+ExitPolicy reject *:*
+HeartbeatPeriod 1800
+
+Create the TORrelay.cmd and put this file in C:\TorRelay\Tor:
+
+start /B /DC:\TorRelay\Tor\ tor -f C:\TorRelay\Data\Tor\torrc >> log
+
+Open the ports 9001, 9030, 9050, 9151 in your firewall and forward these ports if you are behind a router to allow to be accessed from the Internet.
+
+If you have a private IP, make your router DHCP 192.168.xxx.xxx IP static:
+- Open the Local Area Connection Status -> Properties
+- Internet Protocol (TCP/IP) -> Properties
+- Check the Use the following IP address and put there the IP Address, Subnet Mask and the Default Gateway from the Local Area Connection Support.
+
+Hit the TORrelay.cmd and that's all folks!
+
+Check your log file created in C:\TorRelay\Tor for these notice to ensure that everything is OK:
+
+Now checking whether ORPort xxx.xxx.xxx.xxx:9001 and DirPort xxx.xxx.xxx.xxx:9030 are reachable... (this may take up to 20 minutes -- look for log messages indicating success)
+Self-testing indicates your ORPort is reachable from the outside. Excellent. Publishing server descriptor.
+Self-testing indicates your DirPort is reachable from the outside. Excellent.
+
+Check periodically your non-exit relay (your-relay-name) health at:
+https://atlas.torproject.org/#search/
+https://consensus-health.torproject.org/consensus-health.html
+
+When you want to stop your non-exit relay end the process tor.exe from Task Manager.
