@@ -1,6 +1,10 @@
 The following addresses may break some providers and are excluded from the HOSTS file:
 --------------------------------------------------------------------------------------
 
+# IANA Multicast [block if you not need it]
+224.0.0.0 - 239.255.255.255
+
+
 # Deutsche Telekom AG [NSA-affiliated IP ranges]
 79.192.0.0 - 79.244.191.255
 80.128.0.0 - 80.146.159.255
@@ -48,8 +52,13 @@ ns4.google.com [216.239.38.10]
 ns1.google.com [216.239.32.10]
 ns3.google.com [64.233.167.0/24]
 ns2.google.com [216.239.34.10]
-autobinarysignals.com / aspmx3.googlemail.com 
-/ walt.ns.cloudflare.com / others for gmail
+#8.8.8.8 [primary public DNS / DNSSEC]
+#8.8.4.4 [secondary public DNS / DNSSEC]
+autobinarysignals.com
+aspmx3.googlemail.com
+aspmx2.googlemail.com
+walt.ns.cloudflare.com 
+...... others for gmail/...
 
 
 # AOL [NSA-affiliated IP ranges]
@@ -84,18 +93,44 @@ ns3.yahoo.com [217.12.4.104]
 ns2.yipes.com [66.7.155.198]
 
 
+# Akamai Technologies, Inc. (AKAMAI) [Needs investigation!]
+104.64.0.0/10
+104.64.0.0 - 104.127.255.255
+100ge7-2.core1.fra1.he.net [80.81.192.172] 
+100ge5-2.core1.par2.he.net [72.52.92.13] 
+10ge15-1.core1.ash1.he.net [184.105.213.93] 
+100ge13-1.core1.lax1.he.net [184.105.80.202] 
+100ge11-1.core1.lax2.he.net [72.52.92.122] 
+vocus.10gigabitethernet5-8.core1.lax2.he.net [64.62.151.126] 
+bundle-101.cor02.lax01.ca.VOCUS.net [114.31.199.50] 
+bundle-100.cor01.lax01.ca.VOCUS.net [114.31.199.48] 
+bundle-102.cor01.sjc01.ca.VOCUS.net [114.31.199.63] 
+bundle-100.cor02.sjc01.ca.VOCUS.net [114.31.199.59] 
+ten-0-2-0-2.cor01.syd04.nsw.VOCUS.net.au [114.31.199.45] 
+bundle-101.bdr05.syd03.nsw.vocus.net.au [114.31.192.59] 
+asn20940.cust.bdr04.syd03.nsw.vocus.net.au [175.45.124.226] 
+a104-72-70-88.deploy.static.akamaitechnologies.com [104.72.70.88] 
+
+
 # Vodafone [NSA-affiliated IP ranges]
 dns2.vodafone.de
 dns1.vodafone.de
+dns2.vodafone.uk
+dns1.vodafone.uk
+dns2.vodafone.com
+dns1.vodafone.com
+#web.vodafone.com
+#wap.vodafone.com
+#beta.vodafone.com
 #web.vodafone.de
 #wap.vodafone.de
 #beta.vodafone.de
-a.in-addr-servers.arpa (199.212.0.73)
-b.in-addr-servers.arpa (199.253.183.183)
-c.in-addr-servers.arpa (196.216.169.10)
-d.in-addr-servers.arpa (200.10.60.53)
-e.in-addr-servers.arpa (203.119.86.101)
-f.in-addr-servers.arpa (193.0.9.1)
+a.in-addr-servers.arpa [199.212.0.73]
+b.in-addr-servers.arpa [199.253.183.183]
+c.in-addr-servers.arpa [196.216.169.10]
+d.in-addr-servers.arpa [200.10.60.53]
+e.in-addr-servers.arpa [203.119.86.101]
+f.in-addr-servers.arpa [193.0.9.1]
 11.0.0.0/8
 11.0.0.0 - 11.255.255.255
 
@@ -113,10 +148,10 @@ ns1.bankofamerica.com [171.159.64.15]
 #########################
 # NSA [NSA Homepage]
 nsa.gov [23.76.132.226, 2001:590:140a:388::19ff, 2001:590:140a:38c::19ff]
-dsdn-gh1-uea05.nsa.gov (63.239.67.11)
-dsdn-gh1-uea06.nsa.gov (63.239.65.41)
-emvm-gh1-uea08.nsa.gov (63.239.67.9)
-emvm-gh1-uea09.nsa.gov (63.239.67.10)
+dsdn-gh1-uea05.nsa.gov [63.239.67.11]
+dsdn-gh1-uea06.nsa.gov [63.239.65.41]
+emvm-gh1-uea08.nsa.gov [63.239.67.9]
+emvm-gh1-uea09.nsa.gov [63.239.67.10]
 63.239.67.11
 23.76.132.226
 65.222.202.53
@@ -152,9 +187,9 @@ a22-66.akam.net [23.211.61.66]
 
 
 # Digital Ocean, Inc. [NSA-affiliated IP ranges]
-ns3.digitalocean.com (198.41.222.173)
-ns1.digitalocean.com (173.245.58.51)
-ns2.digitalocean.com (173.245.59.41)
+ns3.digitalocean.com [198.41.222.173]
+ns1.digitalocean.com [173.245.58.51]
+ns2.digitalocean.com [173.245.59.41]
 104.236.192.0/18
 104.236.192.0 - 104.236.255.255
 
@@ -162,20 +197,23 @@ ns2.digitalocean.com (173.245.59.41)
 # INFOnline GmbH [Hackers, Spyware, Botnets etc.]
 91.215.103.0/24
 91.215.103.0 - 91.215.103.255
-ns3.infonline.de (94.198.57.34)
-ns.infonline.de (193.46.63.18)
-ns2.infonline.de (91.215.103.53)
-ns4.infonline.de (213.239.198.168)
+ns3.infonline.de [94.198.57.34]
+ns.infonline.de [193.46.63.18]
+ns2.infonline.de [91.215.103.53]
+ns4.infonline.de [213.239.198.168]
 
 
 # Horyzont Technologie Internetowe sp.z.o.o. [Wrong whois, possible faked ripe]
-185.52.170.16
-PTR: 16.170.52.185-rev.hti.pl
-dns0.hti.pl (217.168.128.21)
-dns1.hti.pl (217.168.128.121)
 185.52.170.0/24
 185.52.170.0 - 185.52.170.255
+16.170.52.185-rev.hti.pl
+dns0.hti.pl [217.168.128.21]
+dns1.hti.pl [217.168.128.121]
 
+
+#########################
+#####  M$ stuff  ########
+#########################
 
 # Microsoft tracking [Telemetry, metadata, ...]
 0.0.0.0 adnxs.com
@@ -1145,8 +1183,4 @@ dns1.hti.pl (217.168.128.121)
 222.66.63.136-222.66.63.143
 222.151.212.8-222.151.212.15
 222.190.113.168-222.190.113.175
-
-
-# IANA Multicast [disallow if you not need it]
-224.0.0.0 - 239.255.255.255
 
