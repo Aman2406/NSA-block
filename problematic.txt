@@ -54,6 +54,7 @@ ns3.google.com [64.233.167.0/24]
 ns2.google.com [216.239.34.10]
 #8.8.8.8 [primary public DNS / DNSSEC]
 #8.8.4.4 [secondary public DNS / DNSSEC]
+#4.2.2.2 [IPv6 res.]
 autobinarysignals.com
 aspmx3.googlemail.com
 aspmx2.googlemail.com
@@ -113,6 +114,8 @@ a104-72-70-88.deploy.static.akamaitechnologies.com [104.72.70.88]
 
 
 # Vodafone [NSA-affiliated IP ranges]
+ns2.vodafone.com
+ns2.dc-ratingen.de
 dns2.vodafone.de
 dns1.vodafone.de
 dns2.vodafone.uk

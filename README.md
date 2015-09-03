@@ -64,6 +64,7 @@ ToDo:
 - [ ] Fix/merge all reported [issues](https://github.com/CHEF-KOCH/NSABlocklist/issues)
   - [ ] Add explanation how to identify compromised domains/DNS
 	- [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE (low-prio)
+	- [ ] Add IPv6 only hosts file (low-prio)
 
 
 Utils
@@ -73,11 +74,13 @@ Utils
 * [Robtex](https://www.robtex.com)
 * [ZMap - The Internet Scanner](https://zmap.io/)
 * tracert nsa.gov, see [how TRACERT command works](http://support.microsoft.com/?kbid=162326)
+* ... [others](http://www.rationallyparanoid.com/resources/)
 
 
 Project History
 ------------
 
+- [x] 02.09.2015 Added 'Snowden documents compilations'
 - [x] 19.08.2015 Added Backbone Providers and other involved services
 - [x] 18.08.2015 More domains added 7821 in total
 - [x] 16.08.2015 Removed some duplicates and added new domains, small Readme.md changes
@@ -88,8 +91,6 @@ Project History
 References
 ------------
 
-* [The NSA files | The Guardian](http://www.theguardian.com/us-news/the-nsa-files)
-* [Unofficial page to search E. Snowden leaked documents](https://search.edwardsnowden.com/)
 * [Patriot Act | Wikipedia](https://en.wikipedia.org/wiki/USA_PATRIOT_Act) + CALEA act
 * [Cryptome | cryptome.org](http://cryptome.info/0001/ip-tla.htm)
 * [NSA's Autonomous Systems (AS),](https://www.robtex.net/?_escaped_fragment_=dns%3Dnsa.gov#!dns=nsa.gov)
@@ -97,8 +98,6 @@ References
 * [What an IP Address Can Reveal About You | priv.gc.ca](https://www.priv.gc.ca/information/research-recherche/2013/ip_201305_e.asp)
 * [Randomtalker web-privacy](http://randomwalker.info/web-privacy/)
 * [https://bosnadev.com/2015/04/14/facebook-chats-are-being-scanned-by-a-cia-funded-company/](Chats Are Being Scanned By A CIA Funded Company)
-* [Free Haven's Selected Papers in Anonymity](http://freehaven.net/anonbib/)
-* [NSA Spying | Electronic Frontier Foundation](https://www.eff.org/de/nsa-spying)
 * [Mobile Security Wiki | mobilesecuritywiki.com](https://mobilesecuritywiki.com/)
 * [Researcher at Kaspersky Labs have discovered a list of domains used by the NSA to install malware on victim's PC around the world.](https://www.hackread.com/here-is-a-list-of-urls-used-by-the-nsa-to-install-malware-on-pcs-worldwide/)
 * [NSA PRISM Keywords For Domestic Spying | Business Insider](http://www.businessinsider.com/nsa-prism-keywords-for-domestic-spying-2013-6?IR=T)
@@ -120,18 +119,22 @@ References
 * [Global surveillance disclosures (2013–present) | Wikipedia](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present))
 * [Attacking Tor: how the NSA targets users' online anonymity |TheGuardian](http://www.theguardian.com/world/2013/oct/04/tor-attacks-nsa-users-online-anonymity)
 * [Google PDF Search: “not for public release”](https://www.google.com/search?as_q=&as_epq=not+for+public+release&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=pdf&as_rights=&gws_rd=ssl)
+* [Using a Power Law Distribution to describe Big Data | Arxiv.org](http://arxiv.org/abs/1509.00504)
 
 
 
 Snowden documents compilations
 ------------
 
-* https://search.edwardsnowden.com/
+* [The NSA files | The Guardian](http://www.theguardian.com/us-news/the-nsa-files)
+* [Unofficial page to search E. Snowden leaked documents](https://search.edwardsnowden.com/)
 * https://edwardsnowden.com/revelations/
+* [Free Haven's Selected Papers in Anonymity](http://freehaven.net/anonbib/)
 * http://cjfe.org/snowden
 * https://github.com/nsa-observer/documents/tree/master/files/pdf
 * https://www.aclu.org/nsa-documents-search
 * http://freesnowden.is/category/revealed-documents/index.html
+* [NSA Spying | Electronic Frontier Foundation](https://www.eff.org/de/nsa-spying)
 * https://www.eff.org/deeplinks/2013/11/nsa-spying-primary-sources
 * https://www.aclu.org/nsa-documents-released-public-june-2013
 * http://leaksource.wordpress.com/
