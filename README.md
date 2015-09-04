@@ -19,6 +19,7 @@ This project includes
 * The '[README](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/README.md)' (this) file that includes the latest news, updates and explanations,...
 * An '[problematic.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/problematic.txt)' file wich includes DNS/PTRs that are possible problematic for you. 
 * The 'Mail.txt' file in case you want to speak with me over encrypted email.
+* An 'test' folder for IPv6 only domains. It also contains an 'html' folder for html formatted entries, an 'onion' folder for suspect or faked .onions and an 'Tor' folder for a quick guide how to run an non-exit relay in around 10 minutes.
 
 
 Important Notice
@@ -58,13 +59,13 @@ ToDo:
 
 - [ ] Fix Readme.md, typos, grammar,...
   - [ ] Sort hosts entries alphabetically
-  - [ ] Add an seperate hosts file for MS, Apple, Google (if someone ask for it) 
+  - [ ] Add an seperate hosts file for MS, Apple, Google (if someone needs it) 
   - [ ] Monthly updates!?
 - [ ] Find invalid entries or domains that aren't online anymore (high-prio)
 - [ ] Fix/merge all reported [issues](https://github.com/CHEF-KOCH/NSABlocklist/issues)
-  - [ ] Add explanation how to identify compromised domains/DNS
+  - [ ] Add explanation how to identify compromised domains/DNS or other bogus addresses
 	- [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE (low-prio)
-	- [ ] Add IPv6 only hosts file (low-prio)
+	- [x] Add IPv6 only hosts file (low-prio)
 
 
 Utils
@@ -80,6 +81,7 @@ Utils
 Project History
 ------------
 
+- [x] 04.09.2015 Added Ipv6 list, sort the test lists in his own cat.
 - [x] 02.09.2015 Added 'Snowden documents compilations'
 - [x] 19.08.2015 Added Backbone Providers and other involved services
 - [x] 18.08.2015 More domains added 7821 in total
