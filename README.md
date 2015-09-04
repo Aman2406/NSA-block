@@ -77,6 +77,7 @@ Utils
 * [ZMap - The Internet Scanner](https://zmap.io/)
 * tracert nsa.gov, see [how TRACERT command works](http://support.microsoft.com/?kbid=162326)
 * ... [others](http://www.rationallyparanoid.com/resources/)
+* [GlobalLeaks](https://globaleaks.org/) [Open-source anonymous whistleblowing software]
 
 
 Project History
