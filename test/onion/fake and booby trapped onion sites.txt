@@ -1,3 +1,11 @@
+OnioNS:
+https://lists.torproject.org/pipermail/tor-dev/2015-August/009221.html
+
+OnioNS is a distributed system that links hard-to-remember and hard-to-verify onion service addresses (such as “onions55e7yam27n.onion”) to domain names that are easier for humans to read and recall (like “example.tor”).
+
+It's maybe possible to identify pishing with this (in the future).
+
+
 # Ahmia.fi
 REAL: http://25ffhnaechrbzwf3.onion/
 FAKE: http://25ffhe3ppwxs7kvz.onion/
