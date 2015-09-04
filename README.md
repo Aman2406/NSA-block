@@ -221,6 +221,7 @@ Spying programs
 * WEALTHYCLUSTER
 * APEX
 * COMSAT
+* IRRITANT HORN
 * ....
  
 
