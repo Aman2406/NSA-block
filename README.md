@@ -160,6 +160,7 @@ Providers
 * TM Net, Internet Service Provider
 * REN
 * Verizon
+* ....
 
 
 Backbone Providers
@@ -178,10 +179,11 @@ Backbone Providers
 * Net By Net Holding LLC
 * Verizon Communications
 * ATM-Telekom
-* [IBM](https://cryptome.org/2015/08/ibm-stop-tor.pdf) 
+* [IBM](https://cryptome.org/2015/08/ibm-stop-tor.pdf)
+* ...
 
 
-Other services providers
+Other services providers + social media platforms
 ------------
 * Facebook
 * PushTalk / PalTalk
@@ -194,6 +196,8 @@ Other services providers
 * Automattic, Inc
 * LLC 
 * Yahoo
+* Twitter (FBI records)
+* ....
 
 
 Spying systems

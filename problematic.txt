@@ -3,24 +3,75 @@ The following addresses may break some providers and are excluded from the HOSTS
 
 ##############
 #### IANA ####
+# www.iana.org
 ##############
-# IANA Multicast [block if you not need it]
+# IANA Multicast
+224.0.0.0-239.255.255.255
 
 
+# IANA Private list
+Local Identification [RFC5735]:0.0.0.1-0.255.255.255
+Private Use [RFC1918]:10.0.0.0-10.255.255.255
+Internet Host Loopback [RFC5735]:127.0.0.0-127.0.0.0
+Internet Host Loopback [RFC5735]:127.0.0.2-127.255.255.255
+Link Local Block [RFC5735]:169.254.0.0-169.254.255.255
+Private Use [RFC1918]:172.16.0.0-172.31.255.255
+IPv4 Special Purpose Address Registry [RFC5736]:192.0.0.0-192.0.0.255
+TEST-NET-1 [RFC5737]:192.0.2.0-192.0.2.255
+6to4 Relay Anycast [RFC3068]:192.88.99.0-192.88.99.255
+Private-Use Networks [RFC1918]:192.168.0.0-192.168.255.255
+Benchmark Tests of Network Interconnect Devices [RFC2544][RFC3330]:198.18.0.0-198.19.255.255
+TEST-NET-2 [RFC5737]:198.51.100.0-198.51.100.255
+TEST-NET-3 [RFC5737]:203.0.113.0-203.0.113.255
 
-# IANA Private list [block if you not need it]
+
+# IANA Reserved list
+224.0.0.0-224.255.255.255
+225.0.0.0-225.255.255.255
+226.0.0.0-226.255.255.255
+227.0.0.0-227.255.255.255
+228.0.0.0-228.255.255.255
+229.0.0.0-229.255.255.255
+230.0.0.0-230.255.255.255
+231.0.0.0-231.255.255.255
+232.0.0.0-232.255.255.255
+233.0.0.0-233.255.255.255
 
 
-
-# IANA Reserved list [block if you not need it]
-
-
-
-# RFC 1918 ranges for e.g. OpenVPN/... 
+###############################
+#######     OpenVPN     #######
+# Do not use 192.168.0.x or 
+# 192.168.1.x. due possible 
+# routing conflicts !!!
+###############################
+# RFC 1918 ranges
 #10.0.0.0 - 10.255.255.255 [10/8 prefix]
 #172.16.0.0 - 172.31.255.255 [172.16/12 prefix]
 #192.168.0.0 - 192.168.255.255 [192.168/16 prefix]
 
+
+# State of Louisiana Office of Telecommunications Management United States [# needs investigation]
+159.39.0.0-159.39.3.255
+159.39.0.0-159.39.255.255
+159.39.4.0-159.39.5.255
+159.39.6.0-159.39.6.255
+159.39.7.0-159.39.7.255
+159.39.9.0-159.39.9.255
+159.39.10.0-159.39.10.255
+159.39.11.0-159.39.11.255
+159.39.12.0-159.39.15.255
+159.39.16.0-159.39.19.255
+
+
+SIEMENS GOVERNMENT SERVICES INC.United States [NSA-affiliated IP ranges]
+12.133.28.0-12.133.28.255
+12.152.107.0-12.152.107.255
+12.166.196.0-12.166.199.255
+12.166.203.0-12.166.203.255
+12.166.204.0-12.166.204.255
+12.166.206.0-12.166.206.255
+12.166.211.0-12.166.211.255
+12.166.211.0-12.166.211.255
 
 # Deutsche Telekom AG [NSA-affiliated IP ranges]
 79.192.0.0 - 79.244.191.255
