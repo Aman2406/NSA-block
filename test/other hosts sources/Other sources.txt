@@ -1,0 +1,62 @@
+Null lists 
+-----------
+
+Explanation:
+DROP (Don't Route Or Peer) and EDROP are advisory "drop all traffic" lists, consisting of netblocks that are "hijacked" or leased by professional spam or cyber-crime operations (used for dissemination of malware, trojan downloaders, botnet controllers). The DROP and EDROP lists are a tiny subset of the SBL, designed for use by firewalls and routing equipment to filter out the malicious traffic from these netblocks. 
+
+
+* http://www.spamhaus.org/drop/
+* http://ipdeny.com/
+* http://ciarmy.com/
+
+
+
+Spam
+-----------
+
+Explanation:
+Contains list that are designed to block forum, email or other spam.
+
+* http://www.projecthoneypot.org/?rf=87404
+
+
+
+Ads
+-----------
+
+Explanation:
+
+
+
+
+SSL
+-----------
+
+Explanation:
+Block bad SSL traffic related to malware or botnet activities (e.g. botnet C&C traffic). 
+
+* https://sslbl.abuse.ch/blacklist/ (not in a hosts format)
+
+
+Various
+-----------
+
+Explanation:
+Sources that use various list (mostly outdated), for ads, proxy, forumspam, common spam, bogus, ....
+
+
+* https://www.iblocklist.com/lists (mostly outdated)
+* http://www.squidblacklist.org/ (always up2date)
+* http://dansguardian.org/
+* http://malc0de.com/dashboard/
+
+
+
+
+Command&Control servers (C&C) 
+-----------
+
+Explanation:
+Block Zeus, or other crimeware.
+
+* https://zeustracker.abuse.ch/

@@ -1,5 +1,5 @@
-The following addresses may break some providers and are excluded from the HOSTS file:
---------------------------------------------------------------------------------------
+The following addresses may break some providers, pages or services and are excluded from the HOSTS file:
+---------------------------------------------------------------------------------------------------------
 
 ##############
 #### IANA ####
@@ -73,6 +73,173 @@ SIEMENS GOVERNMENT SERVICES INC.United States [NSA-affiliated IP ranges]
 12.166.211.0-12.166.211.255
 12.166.211.0-12.166.211.255
 
+
+Sprint Telecom Service Ltd [NSA-affiliated IP ranges]
+194.41.10.0-194.41.10.255
+194.41.53.0-194.41.54.255
+194.41.121.0-194.41.127.255
+212.160.164.0-212.160.164.255
+213.25.77.0-213.25.77.255
+193.161.116.0-193.161.116.255
+193.231.116.0-193.231.116.255
+194.176.177.0-194.176.177.255
+217.57.126.32-217.57.126.39
+212.160.249.0-212.160.249.127
+81.22.0.0-81.22.15.255
+81.22.0.0-81.22.1.255
+193.193.255.0-193.193.255.255
+217.199.75.192-217.199.75.199
+80.77.67.56-80.77.67.63
+62.69.66.216-62.69.66.219
+62.69.107.28-62.69.107.31
+217.205.106.16-217.205.106.23
+82.209.21.64-82.209.21.71
+81.22.4.0-81.22.7.255
+213.17.177.136-213.17.177.143
+82.152.142.8-82.152.142.15
+87.234.195.168-87.234.195.171
+81.22.8.0-81.22.11.255
+212.202.229.238-212.202.229.238
+213.148.143.216-213.148.143.219
+194.123.5.8-194.123.5.15
+85.20.38.68-85.20.38.71
+89.200.176.0-89.200.183.255
+81.22.12.0-81.22.15.255
+87.234.31.248-87.234.31.251
+88.51.80.224-88.51.80.231
+77.242.0.0-77.242.15.255
+77.242.0.0-77.242.7.255
+86.53.71.144-86.53.71.159
+88.41.205.184-88.41.205.191
+195.11.206.0-195.11.206.127
+91.194.120.0-91.194.121.255
+78.41.32.0-78.41.39.255
+87.193.185.18-87.193.185.18
+213.207.73.0-213.207.73.255
+79.121.248.0-79.121.248.63
+78.26.105.216-78.26.105.223
+93.152.5.192-93.152.5.255
+91.204.228.0-91.204.231.255
+93.152.38.128-93.152.38.191
+193.195.239.20-193.195.239.23
+94.83.228.168-94.83.228.175
+93.152.109.128-93.152.109.191
+79.98.132.176-79.98.132.183
+93.152.78.128-93.152.78.191
+87.241.7.176-87.241.7.183
+213.215.176.192-213.215.176.255
+80.120.84.36-80.120.84.39
+95.177.45.64-95.177.45.95
+95.177.67.32-95.177.67.63
+93.63.251.176-93.63.251.183
+95.177.117.160-95.177.117.191
+93.62.200.88-93.62.200.91
+94.101.86.152-94.101.86.159
+94.93.7.56-94.93.7.63
+194.70.38.20-194.70.38.23
+213.235.9.24-213.235.9.31
+99.200.0.0-99.207.255.255
+8.240.0.0-68.247.255.255
+70.0.0.0-70.14.255.255
+68.24.0.0-68.31.255.255
+63.160.0.0-63.175.255.255
+207.12.0.0-207.15.255.255
+208.0.0.0-208.35.255.255
+66.1.0.0-66.1.255.255
+
+
+Suddenlink [NSA-affiliated IP ranges]
+74.192.0.0-74.197.255.255
+208.180.0.0-208.180.255.255
+
+
+Embarq [NSA-affiliated IP ranges] + needs investigaton + updates
+71.48.0.0-71.55.255.255
+168.251.0.0-168.251.255.255
+64.45.192.0-64.45.255.255
+65.40.0.0-65.41.255.255
+67.76.0.0-67.77.255.255
+67.232.0.0-67.239.255.255
+69.34.0.0-69.34.255.255
+69.68.0.0-69.69.255.255
+71.0.0.0-71.3.255.255
+74.4.0.0-74.5.255.255
+76.0.0.0-76.7.255.255
+138.210.0.0-138.210.255.255
+207.30.0.0-207.30.255.255
+209.26.0.0-209.26.255.255
+
+
+Charter Communications [NSA-affiliated IP ranges]
+24.217.29.0-24.217.29.255
+68.118.64.0-68.118.79.255
+68.186.192.0-68.186.207.255
+24.151.192.0-24.151.223.255
+71.80.0.0-71.80.15.255
+66.188.0.0-66.188.15.255
+97.80.0.0-97.80.31.255
+24.196.0.0-24.196.15.255
+24.213.0.0-24.213.7.255
+24.205.0.0-24.205.3.255
+66.188.16.0-66.188.31.255
+75.128.0.0-75.143.255.255
+24.205.0.0-24.205.255.255
+24.231.128.0-24.231.255.255
+24.207.128.0-24.207.255.255
+68.112.0.0-68.119.255.255
+71.8.0.0-71.15.255.255
+66.168.0.0-66.169.255.255
+66.188.32.0-66.191.255.255
+71.80.0.0-71.95.255.255
+24.158.0.0-24.158.255.255
+97.80.0.0-97.95.255.255
+24.176.0.0-24.183.255.255
+66.227.128.0-66.227.255.255
+96.32.0.0-96.42.255.255
+24.151.0.0-24.151.255.255
+
+
+AT&T [NSA-affiliated IP ranges] + needs investigaton + updates
+76.203.8.0-76.203.15.255
+76.204.192.0-76.204.195.255
+76.205.96.0-76.205.111.255
+76.192.0.0-76.255.255.255
+76.209.222.0-76.209.223.255
+4.160.129.200-64.160.129.207
+74.160.0.0-74.191.255.255
+74.224.0.0-74.255.255.255
+139.76.0.0-139.76.255.255
+205.152.0.0-205.152.255.255
+199.191.128.0-199.191.255.255
+12.0.0.0-12.255.255.255
+63.240.0.0-63.242.255.255
+207.252.0.0-207.252.255.255
+192.153.156.0-192.153.156.255
+216.173.224.0-216.173.255.255
+70.240.0.0-70.255.255.255
+151.164.0.0-151.164.255.255
+206.13.0.0-206.13.127.255
+70.128.0.0-70.143.255.255
+72.144.0.0-72.159.255.255
+69.208.0.0-69.223.255.255
+68.88.0.0-68.95.255.255
+71.128.0.0-71.159.255.255
+70.144.0.0-70.159.255.255
+75.0.0.0-75.63.255.255
+99.128.0.0-99.191.255.255
+68.248.0.0-68.255.255.255
+69.224.0.0-69.239.255.255
+69.104.0.0-69.111.255.255
+216.148.0.0-216.148.255.255
+204.127.0.0-204.127.255.255
+216.76.0.0-216.79.255.255
+65.80.0.0-65.83.255.255
+207.140.0.0-207.141.255.255
+69.148.0.0-69.155.255.255
+108.64.0.0-108.95.255.255
+99.0.0.0-99.127.255.255
+
+
 # Deutsche Telekom AG [NSA-affiliated IP ranges]
 79.192.0.0 - 79.244.191.255
 80.128.0.0 - 80.146.159.255
@@ -90,6 +257,22 @@ pns.dtag.de [194.25.0.125]
 dns51.t-ipnet.de [217.5.100.186]
 dns04.btx.dtag.de [194.25.2.133]
 dns01.btx.dtag.de [194.25.2.130]
+
+
+# Facebook [needs investigation, it's not complete]
+allfacebook.com
+www.allfacebook.com
+api.facebook.com
+connect.facebook.net
+facebook.com
+www.facebook.com
+graph.facebook.com
+profile-b.xx.fbcdn.net
+s-static.ak.facebook.com
+static.ak.connect.facebook.com
+static.ak.facebook.com
+static.ak.fbcdn.net
+.fbcdn.net / facebook
 
 
 # Verizon [NSA-affiliated IP ranges]
@@ -127,7 +310,8 @@ autobinarysignals.com
 aspmx3.googlemail.com
 aspmx2.googlemail.com
 walt.ns.cloudflare.com 
-...... others for gmail/...
+...... others for gmail (mail.google.com)/... 
+[needs nvestigation since I can't look behind ... ]
 
 
 # AOL [NSA-affiliated IP ranges]
@@ -143,7 +327,7 @@ dns-01.ns.aol.com
 64.128.0.0-64.129.255.255	# Time Warner
 64.236.0.0-64.236.255.255
 66.185.128.0-66.185.159.255
-66.192.0.0-66.195.255.255	# Time Warner t-com
+66.192.0.0-66.195.255.255	# Time Warner (T-Com)
 149.174.0.0-149.174.255.255
 152.163.0.0-152.163.255.255
 172.128.0.0-172.216.255.255
@@ -153,13 +337,44 @@ dns-01.ns.aol.com
 207.200.64.0-207.200.127.255	# Netscape Communications
 
 
-# YahhooooooooOooOo [NSA-affiliated IP ranges]
+# Yahoo [NSA-affiliated IP ranges]
+98.138.253.109
+98.139.183.24
+206.190.36.45
+YAHOO.COM.CO
+SIPHONLLC.COM
+JILLNICOLE.NET
+#YAHOOGROUPS.SG
+#YAHOO.IDV.TW
+#YAHOONEWS.COM.CN
+#Yahoo.com [clean]
 ns4.yahoo.com [68.142.196.63]
 ns2.yahoo.com [68.142.255.16]
 ns5.yahoo.com [216.109.116.17]
 ns1.yahoo.com [66.218.71.63]
 ns3.yahoo.com [217.12.4.104]
+ns4.yahoo.com
+ns5.yahoo.com
+ns6.yahoo.com
 ns2.yipes.com [66.7.155.198]
+#mta5.am0.yahoodns.net [clean]
+#mta6.am0.yahoodns.net [clean]
+#mta7.am0.yahoodns.net [clean]
+2001:4998:c:a06::2:4008
+2001:4998:44:204::a7
+2001:4998:58:c02::a9
+visit.webhosting.yahoo.com [clean]
+#DNS1.NAME-SERVICES.COM [clean]
+#DNS2.NAME-SERVICES.COM [clean]
+#DNS3.NAME-SERVICES.COM [clean]
+#DNS4.NAME-SERVICES.COM [clean]
+#DNS5.NAME-SERVICES.COM [clean]
+compose.mail.yahoo.com
+
+
+# Blocks CNet.com downloads [needs investigation, because dw.** seems in an NSA range]
+#dw.com.com
+#dw.cbsi.com
 
 
 # Akamai Technologies, Inc. (AKAMAI) [Needs investigation!]
@@ -178,7 +393,16 @@ bundle-100.cor02.sjc01.ca.VOCUS.net [114.31.199.59]
 ten-0-2-0-2.cor01.syd04.nsw.VOCUS.net.au [114.31.199.45] 
 bundle-101.bdr05.syd03.nsw.vocus.net.au [114.31.192.59] 
 asn20940.cust.bdr04.syd03.nsw.vocus.net.au [175.45.124.226] 
-a104-72-70-88.deploy.static.akamaitechnologies.com [104.72.70.88] 
+a104-72-70-88.deploy.static.akamaitechnologies.com [104.72.70.88]
+0.0.0.0 a23-218-212-69.deploy.static.akamaitechnologies.com
+0.0.0.0 a248.e.akamai.net
+0.0.0.0 a1961.g.akamai.net
+0.0.0.0 a1856.g2.akamai.net
+0.0.0.0 a1621.g.akamai.net
+0.0.0.0 e2835.dspb.akamaiedge.net
+0.0.0.0 e8218.ce.akamaiedge.net
+0.0.0.0 e7341.g.akamaiedge.net
+0.0.0.0 e7502.ce.akamaiedge.net
 
 
 # Vodafone [NSA-affiliated IP ranges]
@@ -202,8 +426,6 @@ c.in-addr-servers.arpa [196.216.169.10]
 d.in-addr-servers.arpa [200.10.60.53]
 e.in-addr-servers.arpa [203.119.86.101]
 f.in-addr-servers.arpa [193.0.9.1]
-11.0.0.0/8
-11.0.0.0 - 11.255.255.255
 
 
 Bank of America [NSA-affiliated IP ranges]
@@ -283,23 +505,58 @@ dns1.hti.pl [217.168.128.121]
 
 
 #########################
+####  Amazon stuff  #####
+#########################
+# Official no NSA/Gov stuff!?
+
+amzn.com
+amazon.com
+dns-external-master.amazon.com
+72.21.206.6
+72.21.206.80
+72.21.210.29
+176.34.101.186
+176.32.98.166
+205.251.242.103
+207.171.166.22
+ns1.p31.dynect.net [name server]
+AMAZON-SMTP.AMAZON.COM [Mail]
+BLINDSIGHT.COM [Mail]
+LIQUAVISTA.COM, EVI.COM [Mail]
+ns1.p31.dynect.net
+ns2.p31.dynect.net
+ns3.p31.dynect.net
+ns4.p31.dynect.net
+pdns1.ultradns.net
+pdns6.ultradns.co.uk [empty NS]
+U1.AMAZONAWS.COM
+U2.AMAZONAWS.COM
+U3.AMAZONAWS.COM
+U4.AMAZONAWS.COM
+U5.AMAZONAWS.COM
+U6.AMAZONAWS.COM
+UltraDNS.org
+#s3-eu-central-1.amazonaws.com [clean but needs investigation to verify]
+
+
+#########################
 #####  M$ stuff  ########
 #########################
 
-# Microsoft tracking [Telemetry, metadata, ...]
+# Microsoft tracking [Telemetry, metadata, ads, ...]
 0.0.0.0 adnxs.com
 0.0.0.0 c.msn.com
 0.0.0.0 g.msn.com
 0.0.0.0 h1.msn.com
 0.0.0.0 msedge.net
-0.0.0.0 ads.msn.com
+#0.0.0.0 ads.msn.com
 0.0.0.0 adnexus.net
 0.0.0.0 ac3.msn.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 rad.msn.com
 0.0.0.0 so.2mdn.net
-0.0.0.0 ads1.msn.com
+#0.0.0.0 ads1.msn.com
 0.0.0.0 ec.atdmt.com
 0.0.0.0 flex.msn.com
 0.0.0.0 rad.live.com
@@ -310,27 +567,28 @@ dns1.hti.pl [217.168.128.121]
 0.0.0.0 b.rad.msn.com
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 m.hotmail.com
-0.0.0.0 ads1.msads.net
-0.0.0.0 a.ads1.msn.com
-0.0.0.0 a.ads2.msn.com
-0.0.0.0 apps.skype.com
-0.0.0.0 b.ads1.msn.com
+#0.0.0.0 ads1.msads.net
+#0.0.0.0 a.ads1.msn.com
+#0.0.0.0 a.ads2.msn.com
+#0.0.0.0 apps.skype.com
+#0.0.0.0 b.ads1.msn.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 watson.live.com
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 preview.msn.com
 0.0.0.0 static.2mdn.net
-0.0.0.0 a.ads2.msads.net
-0.0.0.0 b.ads2.msads.net
+#0.0.0.0 a.ads2.msads.net
+#0.0.0.0 b.ads2.msads.net
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 www.msftncsi.com
 0.0.0.0 cs1.wpc.v0cdn.net
-0.0.0.0 live.rads.msn.com
-0.0.0.0 ad.doubleclick.net
+#0.0.0.0 live.rads.msn.com
+#0.0.0.0 ad.doubleclick.net
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 pricelist.skype.com
+0.0.0.0 stats-microsoft.com
 0.0.0.0 a-0002.a-msedge.net
 0.0.0.0 a-0003.a-msedge.net
 0.0.0.0 a-0004.a-msedge.net
@@ -357,12 +615,12 @@ dns1.hti.pl [217.168.128.121]
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statsfe1.ws.microsoft.com
 0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 survey.watson.microsoft.com
 0.0.0.0 compatexchange.cloudapp.net
-0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 s.gateway.messenger.live.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 feedback.search.microsoft.com
@@ -394,11 +652,50 @@ dns1.hti.pl [217.168.128.121]
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 telemetry.appex.bing.com
+# /end of tracking
+
+
+
+# Hardcoded into %WINDIR%\system32\dnsapi.dll which can't be blocked by HOSTS
+www.msdn.com
+msdn.com
+www.msn.com
+msn.com
+go.microsoft.com
+msdn.microsoft.com
+office.microsoft.com
+microsoftupdate.microsoft.com
+wustats.microsoft.com
+support.microsoft.com
+www.microsoft.com
+microsoft.com
+update.microsoft.com
+download.microsoft.com
+microsoftupdate.com
+windowsupdate.com
+windowsupdate.microsoft.com
 
 
 # Microsoft [ALL - Skype, MSN, Live, XBox, License service, JP/CN/GER/DN/UK/GB/...]
 4.42.190.0-4.42.190.7
 8.6.176.0-8.6.176.255
+8.254.200.46
+8.254.200.78
+8.254.200.206
+23.0.47.111
+65.55.138.111
+66.119.144.190
+77.67.27.176
+77.67.27.177
+77.67.27.185
+95.100.248.90
+95.100.248.144
+134.170.51.190
+134.170.58.118
+134.170.58.121
+134.170.58.123
+134.170.58.189
+157.55.133.204
 12.11.230.232-12.11.230.239
 12.19.196.40-12.19.196.55
 12.28.108.0-12.28.108.127
@@ -1255,3 +1552,52 @@ dns1.hti.pl [217.168.128.121]
 222.151.212.8-222.151.212.15
 222.190.113.168-222.190.113.175
 
+##################
+##### TOR  #######
+##################
+
+# For Tor launcher, Button, etc.
+# These are all maybe monitored [needs investigation]
+
+# obfs3 
+83.212.101.3:80
+169.229.59.74:31493
+169.229.59.75:46328
+109.105.109.163:38980 
+obfs3 109.105.109.163:47779
+
+# obfs4
+178.209.52.110:443
+83.212.101.3:41213
+104.131.108.182:56880
+
+# meek
+0.0.2.0:1
+0.0.2.0:2
+0.0.2.0:3
+ajax.aspnetcdn.com
+a0.awsstatic.com
+meek-reflect.appspot.com
+d2zfqthxsdq309.cloudfront.net
+az786092.vo.msecnd.net
+
+#flashproxy
+#0.0.1.0:1
+#0.0.1.0:2
+#0.0.1.0:3
+#0.0.1.0:4
+#0.0.1.0:5
+
+# Bridges
+192.240.101.106:80
+50.7.176.114:80
+131.252.210.150:8080
+128.105.214.161:8080
+128.105.214.162:8080
+128.105.214.163:8080
+[2001:49f0:d002:1::2]:80
+[2001:49f0:d00a:1::c]:80
+
+# Scramblesuit
+188.226.213.208:54278 
+83.212.101.3:443 
