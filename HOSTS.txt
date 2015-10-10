@@ -14,6 +14,9 @@
 #
 
 # NSABlocklist begins here
+adm.kemoge.net
+ads.kemoge.net
+taosha.cc
 0.0.0.0 ns1.automattic.com
 0.0.0.0 ns3.automattic.com
 0.0.0.0 ns2.automattic.com
@@ -35,6 +38,12 @@
 0.0.0.0 suddenplot.com
 0.0.0.0 ns2.21vianet.com.cn
 0.0.0.0 martinharrigan.ie
+0.0.0.0 DARKNESS.SU
+0.0.0.0 WEED.SU
+0.0.0.0 MEZIAMUSSUCEMAQUEUE.SU
+0.0.0.0 UMBXD15896.SU
+0.0.0.0 STYXB1TCH35.SU
+0.0.0.0 J1NXFYR3.SU
 0.0.0.0 dns1.wiresix.com
 0.0.0.0 dns2.wiresix.com
 0.0.0.0 andyshora.com
