@@ -57,6 +57,8 @@ References
 * [Skype Alternatives, Part 2: Edward Snowden’s Recommendations (cointelegraph.com)](http://cointelegraph.com/news/114689/skype-alternatives-part-2-edward-snowdens-recommendations)
 * [The FBI has no trouble spying on encrypted communications (boingboing.net)](http://boingboing.net/2015/09/29/the-fbi-has-no-trouble-spying.html)
 * [Encryption doesn't stop the FBI (theintercept.com)](https://theintercept.com/2015/09/28/hacking/)
+* [NSA runs its spying activities on Red Hat Linux](http://www.itwire.com/opinion-and-analysis/open-sauce/68567-nsa-runs-its-spying-activities-on-red-hat-linux)
+* [How the NSA can break trillions of encrypted Web and VPN connections ](http://arstechnica.com/security/2015/10/how-the-nsa-can-break-trillions-of-encrypted-web-and-vpn-connections/)
 
 
 
