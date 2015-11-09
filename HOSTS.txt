@@ -3,7 +3,7 @@
 # File encoding: 							UTF-8 Dos/Windows 1252
 # Original maintainer:						CHEF-KOCH
 # Notice:									
-# Version:									000000000010
+# Version:									000000000011
 # Homepage: 								http://chef-koch.github.io/NSABlocklist/HOSTS.txt
 #
 127.0.0.1 localhost						#[IPv4 only]
@@ -14,9 +14,9 @@
 #
 
 # NSABlocklist begins here
-adm.kemoge.net
-ads.kemoge.net
-taosha.cc
+0.0.0.0 adm.kemoge.net
+0.0.0.0 ads.kemoge.net
+0.0.0.0 taosha.cc
 0.0.0.0 ns1.automattic.com
 0.0.0.0 ns3.automattic.com
 0.0.0.0 ns2.automattic.com
