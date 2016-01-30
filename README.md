@@ -100,6 +100,7 @@ Utils
 Project History
 ------------
 
+- [x] 30.01.2016 Video section added, official guidance from nsa.gov added + an section for future tips
 - [x] 15.09.2015 Seperate the into his own References.txt file (list was also updated)
 - [x] 04.09.2015 Added Ipv6 list, sort the test lists in his own cat.
 - [x] 02.09.2015 Added 'Snowden documents compilations'
@@ -159,6 +160,17 @@ Providers
 * Embarq
 * ....
 
+
+Videos
+------------
+
+* [USENIX Enigma 2016 - NSA TAO Chief on Disrupting Nation State Hackers](https://youtu.be/bDJb8WOJYdA)
+
+
+Tips directly from nsa.gov
+------------
+
+* [NSA IA Guidance](https://www.nsa.gov/ia/mitigation_guidance/index.shtml) incl. several pdf's.
 
 
 Backbone Providers
