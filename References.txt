@@ -74,6 +74,8 @@ Videos
 Papers
 ------------
 
+
+* [Detect IP spoofing with 97 chance of success](https://sce.carleton.ca/~abdou/CPV_TDSC.pdf)
 * [ENCRYPT Act of 2016](https://assets.documentcloud.org/documents/2708079/LIEU-027-Xml-ENCRYPT-Act-of-2016.pdf)
 * [Google PDF Search: “not for public release”](https://www.google.com/search?as_q=&as_epq=not+for+public+release&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=pdf&as_rights=&gws_rd=ssl)
 * [Password guidance - simplifying your approach (GCHQ) [pdf] (gov.uk)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/458857/Password_guidance_-_simplifying_your_approach.pdf)
