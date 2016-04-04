@@ -1,0 +1,11 @@
+The Oculus uses a hardcoded root certificate so the hosts method might not work if it was proper encrypted. 
+
+
+But to collect:
+* edge-oculus-shv-01-frt3.fbcdn.net: This address is used for Updates, downloading Oculus Store Content and more stuff. Seems OK So far.
+* edge-mqtt-shv-01-frt3.facebook.com: These seem to be the FB mqtt server. MQTT = MQ Telemetry Transport Denying via Windows Firewall seems to work fine.
+* edge-star-shv-01-frt3.facebook.com: Still don't really know what this is maybe 'hello?'
+
+
+Background:
+https://www.reddit.com/r/oculus/comments/4crsmo/oculuss_services_are_always_on_and_you_should_be/
