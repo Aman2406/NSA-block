@@ -1,0 +1,2 @@
+https://stat.ripe.net/AS32934
+http://bgp.he.net/irr/as-set/AS-FACEBOOK
