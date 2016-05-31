@@ -1,4 +1,4 @@
-NSABlocklist© file original created under the MIT license 2015 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+NSABlocklist© project original created under the MIT license 2015 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 
 Description
