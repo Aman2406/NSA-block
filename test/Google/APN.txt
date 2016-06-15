@@ -1,2 +1,5 @@
 https://stat.ripe.net/AS15169
-https://stat.ripe.net/AS15169
+
+
+# ToDo
+Filter them to only block the nessary ones (tracking?)
