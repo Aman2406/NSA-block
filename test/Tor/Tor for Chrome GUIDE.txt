@@ -1,0 +1,5 @@
+1) Download Advanced Onion routing and run it -> http://sourceforge.net/projects/advtor/
+2) Click connect.
+3) Then, in Chrome, go to the Tools menu, and then the Under the hood tab. Scroll to network, and click Change proxy settings.
+4) Under connections, select LAN, IP is 127.0.0.1 port is 9050.
+5) Save, and surf normally.
