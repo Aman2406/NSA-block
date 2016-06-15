@@ -1,0 +1,2 @@
+FF addon:
+https://github.com/Synzvato/decentraleyes
