@@ -1,0 +1,779 @@
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          LG DACOM KIDC
+descr:          XINHUA NEWS AGENCY
+descr:          57 Xuanwumen Xidajie Beijing China
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          SK Broadband Co Ltd
+descr:          Area no 6-1 partition
+descr:          DCI-Route
+descr:          Telecom Italia Net
+descr:          INTERBUSINESS
+descr:          Japan Network Information Center
+descr:          Japan Bank for International Cooperation
+descr:          ISN Network
+descr:          ISN Network
+descr:          hefei city
+descr:          China Unicom CncNet
+descr:          CHINANET-ZJ Hangzhou node network
+descr:          Zhejiang Telecom
+descr:          China Unicom Henan province network
+descr:          China Unicom
+descr:          CNC Group CHINA169 Henan Province Network
+descr:          Chengdu Aircraft Industrial Corporation
+descr:          ChengDu,SiChuan
+descr:          PR China
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          LG DACOM KIDC
+descr:          ~{9z7@4sQ'~}
+descr:          National University of Defence Technology
+descr:          Changsha, Hunan Province
+descr:          Asia Pacific Network Information Centre
+descr:          Regional Internet Registry for the Asia-Pacific Region
+descr:          6 Cordelia Street
+descr:          PO Box 3646
+descr:          South Brisbane, QLD 4101
+descr:          Australia
+descr:          ~{9z7@4sQ'~}
+descr:          National University of Defence Technology
+descr:          Changsha, Hunan Province
+descr:          China Unicom Henan province network
+descr:          China Unicom
+descr:          CNC Group CHINA169 Henan Province Network
+descr:          China Education and Research Network Backbone
+descr:          China Education and Research Network Center
+descr:          Tsinghua University
+descr:          Beijing, 100084
+descr:          IPv4 address block not managed by the RIPE NCC
+descr:          ARN-v4
+descr:          ITI
+descr:          ITI Lahore PTCL route object 3
+descr:          Shanghai guojiwangluochuanxunshanghai Co.,Ltd
+descr:          Spain
+descr:          SARENET
+descr:          Taiwan Telecommunication Network Services Co. Ltd.
+descr:          110 , 8F , No 89 , Sungren RD , Taipei
+descr:          21 ViaNet (China),Inc.
+descr:          .com
+descr:          Beijing,China
+descr:          CHINA-ABITCOOL
+descr:          Abitcool(China) Inc.
+descr:          CHINA-ABITCOOL
+descr:          Abitcool(China) Inc.
+descr:          Equipos clientes Sarenet
+descr:          Clients of SARENET AS3262
+descr:          Atheer Jeraisy Backbone route
+descr:          Equipos clientes Sarenet
+descr:          Clients of SARENET AS3262
+descr:          China Education and Research Network
+descr:          Beijing Regional Network
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          eyesvision
+descr:          ISN Network
+descr:          ISN Network
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Korea Telecom
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          National Infomation Society Agency
+descr:          Elisa Oyj
+descr:          Elisa Oyj
+descr:          Spain
+descr:          SARENET
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Korea Telecom
+descr:          Japan Network Information Center
+descr:          Spain
+descr:          SARENET
+descr:          Universitat Politecnica de Catalunya
+descr:          Barcelona
+descr:          UPCNET
+descr:          Universitat de Barcelona
+descr:          Barcelona
+descr:          UBNET
+descr:          Japan Network Information Center
+descr:          Universitat Politecnica de Catalunya
+descr:          Barcelona
+descr:          UPCNET
+descr:          SOLNET
+descr:          SOL-BNG
+descr:          Equipos clientes Sarenet
+descr:          Clients of SARENET AS3262
+descr:          Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore
+descr:          BSNL Internet
+descr:          Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore
+descr:          BSNL Internet
+descr:          XINHUA NEWS AGENCY
+descr:          57 Xuanwumen Xidajie Beijing China
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          SK Broadband Co Ltd
+descr:          ~{11>)J/SM4sQ'~}
+descr:          The Petroleum University
+descr:          Changping, Beijing 102200, China
+descr:          Wavespeed Route Object
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          LG DACOM KIDC
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          HiLine Internet Service Inc.
+descr:          Japan Network Information Center
+descr:          Science Museum of Osaka
+descr:          imported inetnum object for ISSTCC
+descr:          Telecom Italia Net
+descr:          INTERBUSINESS
+descr:          CAIT backbone net (access level)
+descr:          JSC VolgaTelecom, Kirov branch
+descr:          Japan Network Information Center
+descr:          NTT COMMUNICATIONS CORPORATION
+descr:          CTM
+descr:          Route for Business block
+descr:          Beijing Medical University
+descr:          Beijing
+descr:          Start LLC
+descr:          Start LLC
+descr:          King Abdulaziz City for Science and Technology
+descr:          KACST-1
+descr:          Shanghai guojiwangluochuanxunshanghai Co.,Ltd
+descr:          4-th Science Division of Keldysh Institute
+descr:          of Applied Mathematics
+descr:          Moscow
+descr:          MAP
+descr:          aggregation block
+descr:          Area no 6-1 partition
+descr:          DCI-Route
+descr:          Area no 6-1 partition
+descr:          DCI-Route
+descr:          Network of Saratov branch of OJSC "Volgatelecom"
+descr:          Japan Network Information Center
+descr:          Japan Bank for International Cooperation
+descr:          ISN Network
+descr:          ISN Network
+descr:          hefei city
+descr:          China Unicom CncNet
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Hallym Univ.(HALLYM)
+descr:          CHINANET-ZJ Hangzhou node network
+descr:          Zhejiang Telecom
+descr:          HANGZHOU ECONOMIC INFORMATION CENTER,Hangzhou,Zhejiang Province
+descr:          NULL
+descr:          Imam University
+descr:          IMIU Imam University / SA
+descr:          Japan Network Information Center
+descr:          GMO Internet, Inc.
+descr:          Laboratories LAN
+descr:          N.D.Zelinsky Institute of Organic Chemistry RAS
+descr:          FREEnet
+descr:          CHINA SCIENCE AND TECHNOLOGY NETWORK
+descr:          No.4, Zhongguancun 4th South Street,
+descr:          Haidian District, Beijing
+descr:          CSTNET's IP
+descr:          CHINA SCIENCE AND TECHNOLOGY NETWORK
+descr:          No.4, Zhongguancun 4th South Street,
+descr:          Haidian District, Beijing
+descr:          CSTNET's IP
+descr:          Shanghai Institute of Optics and Fine Mechanics,
+descr:          Chinese academy of Sciences
+descr:          Route origin from CSTNET
+descr:          Internet Service Provider
+descr:          TATA Communications formerly VSNL is Leading ISP,
+descr:          Data and Voice Carrier in India
+descr:          imported inetnum object for IIINT
+descr:          China Unicom Henan province network
+descr:          China Unicom
+descr:          CNC Group CHINA169 Henan Province Network
+descr:          ~{V#V]4sQ'~}
+descr:          Zhengzhou University
+descr:          Zhengzhou 450052,China
+descr:          CHINANET Shanghai province network
+descr:          Data Communication Division
+descr:          China Telecom
+descr:          China Unicom Beijing province network
+descr:          China Unicom
+descr:          China Unicom Beijing Province Network
+descr:          BEIJING ZHONG-GUO-YUAN-ZI-NEN-GONG-YE-GONG-SI CO.LTD
+descr:          CO.LTD
+descr:          CTM
+descr:          Route for Business block
+descr:          CTM
+descr:          Route for Business block
+descr:          CTM
+descr:          Route for Business block
+descr:          Japan Network Information Center
+descr:          METCO
+descr:          Dubai Internet City, Dubai, UAE.
+descr:          Emirates Integrated Telecommunications Company PJSC
+descr:          China Institute of Atomic Energy
+descr:          P.O.BOX 275
+descr:          Beijing 102413
+descr:          BiHNet subnet #3
+descr:          Multinet Pakistan Pvt. Ltd.
+descr:          Multinet Route Object
+descr:          Education and Research Network
+descr:          India
+descr:          Japan Network Information Center
+descr:          Kagoshima Hikari Televison Co., Inc.
+descr:          Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore
+descr:          BSNL Internet
+descr:          Tilo Hirsch - unternehmen.com
+descr:          Knaackstr. 8
+descr:          10405 Berlin
+descr:          Germany
+descr:          INTERNETX-MUC-2
+descr:          Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore
+descr:          BSNL Internet
+descr:          Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore
+descr:          BSNL Internet
+descr:          Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore
+descr:          BSNL Internet
+descr:          Tilo Hirsch - unternehmen.com
+descr:          Knaackstr. 8
+descr:          10405 Berlin
+descr:          Germany
+descr:          INTERNETX-MUC-2
+descr:          Chengdu Aircraft Industrial Corporation
+descr:          ChengDu,SiChuan
+descr:          PR China
+descr:          xi'an city
+descr:          CNC Group CHINA169 Shanxi Province Network
+descr:          shenzhen 12012
+descr:          Tilo Hirsch - unternehmen.com
+descr:          Knaackstr. 8
+descr:          10405 Berlin
+descr:          Germany
+descr:          INTERNETX-MUC-2
+descr:          Beijing Chang Jie Communication
+descr:          Company
+descr:          China Unicom Beijing Province Network
+descr:          Multinet Pakistan Pvt. Ltd.
+descr:          Multinet Route Object
+descr:          ~{Nw025gWS?F<<4sQ'~}
+descr:          Xidian University
+descr:          DianZiKeJiDaXue
+descr:          Xi'an
+descr:          WEB Hotel, Moscow
+descr:          RU-ROSPRINT BLOCK
+descr:          NL PA route
+descr:          Martson Road,Lahore
+descr:          PTCL ITI Lahore route object 1
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          LG DACOM KIDC
+descr:          ~{9z7@4sQ'~}
+descr:          National University of Defence Technology
+descr:          Changsha, Hunan Province
+descr:          ~{9z7@4sQ'~}
+descr:          National University of Defence Technology
+descr:          Changsha, Hunan Province
+descr:          Premium DSL on QTA Huawei BRAS-1
+descr:          Paknet Mardan Route Object
+descr:          National Center for Agricultural Research
+descr:          NITC
+descr:          Asia Pacific Network Information Centre
+descr:          Regional Internet Registry for the Asia-Pacific Region
+descr:          6 Cordelia Street
+descr:          PO Box 3646
+descr:          South Brisbane, QLD 4101
+descr:          Australia
+descr:          China Unicom Henan province network
+descr:          China Unicom
+descr:          CNC Group CHINA169 Henan Province Network
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Korea Telecom
+descr:          China Education and Research Network Backbone
+descr:          China Education and Research Network Center
+descr:          Tsinghua University
+descr:          Beijing, 100084
+descr:          ~{5Z6~>|R=4sQ'~}
+descr:          Second Military Medical University
+descr:          Shanghai 200433,China
+descr:          China Network Information Center
+descr:          No.4, Zhongguancun No.4 South Street,
+descr:          Haidian District, Beijing
+descr:          P.O.Box: No.6 Branch-box of No.349 Mailbox, Beijing
+descr:          CTM
+descr:          Route for Business block
+descr:          CTM
+descr:          CTM Internet Service
+descr:          Nour Communications Co. Ltd
+descr:          Rute object for 160.0/24
+descr:          IPv4 address block not managed by the RIPE NCC
+descr:          ARN-v4
+descr:          Premium DSL on ISB Huawei BRAS-1
+descr:          Pakistan Telecom Company Limited
+descr:          IT & Telecom Service Provider
+descr:          Route Object for MMBB
+descr:          Paknet Islamabad Route Object2
+descr:          imported inetnum object for IIINT
+descr:          Main network of Kurchatov Institute
+descr:          Russian Research Centre "Kurchatov Institute"
+descr:          ( Kurchatov Institute of Atomic Energy )
+descr:          1, Kurchatov square
+descr:          123182 Moscow
+descr:          Russia
+descr:          Main network of Kurchatov Institute
+descr:          Russian Research Centre "Kurchatov Institute"
+descr:          ( Kurchatov Institute of Atomic Energy )
+descr:          1, Kurchatov Sq.
+descr:          123182 Moscow Russia
+descr:          Joint Institute for Nuclear Research
+descr:          Fundamental Experimental Physical Research
+descr:          Dubna, RUSSIA, 141980
+descr:          HEP-CIS
+descr:          Shanghai guojiwangluochuanxunshanghai Co.,Ltd
+descr:          imported inetnum object for IIINT
+descr:          CHINA SCIENCE AND TECHNOLOGY NETWORK
+descr:          No.4, Zhongguancun 4th South Street,
+descr:          Haidian District, Beijing
+descr:          CSTNET's IP
+descr:          ImagiNET France
+descr:          Shanghai guojiwangluochuanxunshanghai Co.,Ltd
+descr:          Tohoku University
+descr:          ITI
+descr:          ITI Lahore PTCL route object 3
+descr:          Rostock
+descr:          UNIRO-LAN
+descr:          UNIRO-LAN
+descr:          Spain
+descr:          SARENET
+descr:          Equipos clientes Sarenet
+descr:          Clients of SARENET AS3262
+descr:          Internet Service Provider in Sri
+descr:          Lanka.
+descr:          Taiwan Telecommunication Network Services Co. Ltd.
+descr:          110 , 8F , No 89 , Sungren RD , Taipei
+descr:          Telecom Italia Net
+descr:          INTERBUSINESS
+descr:          Aake Larson A/S
+descr:          Drammensveien 175
+descr:          N-0212 Oslo 2
+descr:          Telenor
+descr:          Telenor Networks AS, Norway
+descr:          Geneva, Switzerland
+descr:          SWITCH-AGGR.1
+descr:          Equipos clientes Sarenet
+descr:          Clients of SARENET AS3262
+descr:          Taiwan Academic Network
+descr:          Ministry of Education computer Center
+descr:          12F, No 106, Sec. 2, Heping E. Rd., Taipei
+descr:          China Science & Technology Network
+descr:          No.4,4th South Street, Zhong Guan Cun, Haidian District,
+descr:          P.O.Box 349,Beijing 100080
+descr:          Route origin from CSTNET
+descr:          Japan Network Information Center
+descr:          Vrije Universiteit Brussel + Universite Libre de Bruxelles
+descr:          Rekencentrum VUB
+descr:          Pleinlaan 2
+descr:          B-1050 Brussells
+descr:          Vrije Universiteit Brussel Campus Network
+descr:          VUBNET
+descr:          Japan Network Information Center
+%  The use of the data below is only permitted as described in
+descr:          China Mobile Communications Corporation - heilongjiang company
+descr:          China Mobile communications corporation
+descr:          Debreceni Egyetem
+descr:          Universitas of Debrecen
+descr:          HBONE/HUNGARNET Block 01
+descr:          Universitat Politecnica de Catalunya
+descr:          Barcelona
+descr:          UPCNET
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Hallym Univ.(HALLYM)
+descr:          Multiprotocol Service Provider to other ISP's and End Users
+descr:          located in Greece and having nodes in 63 cities
+descr:          OTEnet
+descr:          Taiwan Academic Network
+descr:          Ministry of Education computer Center
+descr:          12F, No 106, Sec. 2, Heping E. Rd., Taipei
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          NexG
+descr:          Japan Network Information Center
+descr:          Equipos clientes Sarenet
+descr:          Clients of SARENET AS3262
+descr:          Geneva, Switzerland
+descr:          SWITCH-AGGR.1
+descr:          Japan Network Information Center
+descr:          SARENET Servicios
+descr:          Clients of SARENET AS3262
+descr:          Universita' degli Studi Mediterranea di Reggio Calabria
+descr:          GARR routes
+descr:          Japan Network Information Center
+descr:          Bank Spoldzielczy w Skierniewicach
+descr:          ul. Reymonta 25
+descr:          96-100 Skierniewice
+descr:          TPNET
+descr:          for abuse: abuse@tpnet.pl
+descr:          Early registration addresses
+descr:          IPv4 address block not managed by the RIPE NCC
+descr:          Telkom Kenya Jambonet network
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          NexG
+descr:          Technische Hochschule Mittelhessen
+descr:          institution of higher education
+descr:          location Giessen
+descr:          DE-DFN-20000808
+descr:          Werner-Heisenberg-Weg 39, D-85579 Neubiberg
+descr:          UNIBWMNET
+descr:          UNIBWMNET
+descr:          Werner-Heisenberg-Weg 39, D-85579 Neubiberg
+descr:          UNIBWMNET
+descr:          UNIBWMNET
+descr:          Universiteit van Amsterdam
+descr:          ICT Services
+descr:          Weesperzijde 190
+descr:          NL-1079DZ Amsterdam
+descr:          The Netherlands
+descr:          UVANET1
+descr:          ISN Network
+descr:          ISN Network
+descr:          21 ViaNet (China),Inc.
+descr:          .com
+descr:          Beijing,China
+descr:          CHINA-ABITCOOL
+descr:          Abitcool(China) Inc.
+descr:          CHINA-ABITCOOL
+descr:          Abitcool(China) Inc.
+descr:          FRANCE TERRE
+descr:          FR-COLT-FRANCE
+descr:          ERNET India
+descr:          ERNET India
+descr:          imported inetnum object for MOEC
+descr:          ~{11>)9$IL4sQ'~}
+descr:          BEIJING TECHNOLOGY AND BUSINESS UNIVERSITY
+descr:          Beijing 100037, China
+descr:          imported inetnum object for MOEC
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Korean Education Network
+descr:          Government Service Network (GSN)
+descr:          No.21-3, Sec. 1, Xinyi Rd., Zhongzheng Dist., Taipei City 100, Taiwan
+descr:          Taipei Taiwan 100
+descr:          Taipei Taiwan
+descr:          reassign to "Network Management for Netflow"
+descr:          contact "domaster@csloxinfo.net"
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Korean Education Network
+descr:          Area della ricerca di Napoli
+descr:          CNR-NAPOLI
+descr:          Atheer Jeraisy Backbone route
+descr:          Lanzhou University
+descr:          Lanzhou, Gansu 730000, China
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Sejong Telecom
+descr:          Taiwan Academic Network
+descr:          imported inetnum object for MOEC
+descr:          Taiwan Academic Network
+descr:          12F, No 106, Sec.2,Hoping E. Rd.,
+descr:          Taipei, Taiwan, 106, R.O.C
+descr:          Elisa Oyj
+descr:          Elisa Oyj
+descr:          DACOM Corp.
+descr:          Facility-based Telecommunication Service Provider
+descr:          providing Internet leased-ine, on-line service, BLL etc.
+descr:          LG DACOM Corporation
+descr:          Facolta' di Scienze
+descr:          Aggregated GARR routes
+descr:          Tikona Digital Networks Pvt. LTD
+descr:          route object for TIKONAINFINET
+descr:          Leibniz-Rechenzentrum (LRZ)
+descr:          der Bayerischen Akademie der Wissenschaften
+descr:          Boltzmannstr. 1
+descr:          D-85748 Garching
+descr:          LRZ-MUNICH-NET
+descr:          LRZ-MUNICH-NET
+descr:          LRZ-MUNICH-NET
+descr:          Universita' degli Studi Mediterranea di Reggio Calabria
+descr:          GARR routes
+descr:          Taiwan Academic Network
+descr:          Ministry of Education computer Center
+descr:          12F, No 106, Sec. 2, Heping E. Rd., Taipei
+descr:          Hosting Sarenet
+descr:          Clients of SARENET AS3262
+descr:          Facolta' di Scienze
+descr:          Aggregated GARR routes
+descr:          Equipos clientes Sarenet
+descr:          Clients of SARENET AS3262
+descr:          Universitat Politecnica de Catalunya
+descr:          Barcelona
+descr:          UPCNET
+descr:          Internet Service Provider
+descr:          TATA Communications formerly VSNL is Leading ISP,
+descr:          Data and Voice Carrier in India
+descr:          Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore
+descr:          BSNL Internet
+descr:          IPv4 address block not managed by the RIPE NCC
+descr:          Vodafone Data Routes
+descr:          Royal Institute of Technology
+descr:          KTHLAN-234
+descr:          CHINANET Guangdong province network
+descr:          Data Communication Division
+descr:          China Telecom
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          ELIMNET, INC.
+descr:          BREMNET
+descr:          BREMNET
+descr:          REGUS BRUSSELS SOUTH STATION
+descr:          COLT-BE
+descr:          Jupiter Telecommunication Co. Ltd
+descr:          Jupiter Telecommunication Co. Ltd
+descr:          Jupiter Telecommunication Co. Ltd
+descr:          Jupiter Telecommunication Co. Ltd
+descr:          LEASEWEB
+descr:          Jupiter Telecommunication Co. Ltd
+descr:          Jupiter Telecommunication Co. Ltd
+descr:          Jupiter Telecommunication Co. Ltd
+descr:          Jupiter Telecommunication Co. Ltd
+descr:          Japan Network Information Center
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Korean Education Network
+descr:          China Education and Research Network
+descr:          Beijing Regional Network
+descr:          Japan Network Information Center
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          eyesvision
+descr:          CHINANET Guangdong province network
+descr:          Data Communication Division
+descr:          China Telecom
+descr:          IPv4 address block not managed by the RIPE NCC
+descr:          GABONTELECOM S.A
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Hallym Univ.(HALLYM)
+descr:          GlobalOne Communications A/S
+descr:          Internet Backbone
+descr:          Data Communication Business Group,
+descr:          Chunghwa Telecom Co.,Ltd.
+descr:          No.21, Sec.1, Xinyi Rd., Taipei City
+descr:          10048, Taiwan
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Korean Education Network
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Hankuk University of Foreign Studies Computer Center
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          KISTI
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Sejong Telecom
+descr:          Universita' degli Studi Mediterranea di Reggio Calabria
+descr:          GARR routes
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          KOREA INSTITUTE OF MACHINERY & MATERIALS (KIMM)
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          National Infomation Society Agency
+descr:          Royal Institute of Technology
+descr:          KTHLAN-234
+descr:          Facolta' di Scienze
+descr:          Aggregated GARR routes
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Korea Telecom
+descr:          (MS000139) Baikal Trans Telecom
+descr:          Irkutsk
+descr:          RU-TRANS-TELECOM
+descr:          China Mobile Communications Corporation - guangxi company
+descr:          China Mobile communications corporation
+descr:          Internet Service Provider
+descr:          TATA Communications formerly VSNL is Leading ISP,
+descr:          Data and Voice Carrier in India
+descr:          SIPEX - Satellite IP EXchange
+descr:          InterComp
+descr:          Bucharest, ROMANIA
+descr:          EUROWEB ROMANIA
+descr:          Japan Network Information Center
+descr:          ISN Network
+descr:          ISN Network
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Korea Telecom
+descr:          Elisa Oyj
+descr:          Elisa Oyj
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Korea Telecom
+descr:          Tohoku University
+descr:          Multiprotocol Service Provider to other ISP's and End Users
+descr:          located in Greece and having nodes in 63 cities
+descr:          OTEnet
+descr:          Nonthaburi
+descr:          Jasmine Internet (Thailand) Co.,Ltd.
+descr:          Spain
+descr:          SARENET
+descr:          Spain
+descr:          SARENET
+descr:          Rostock
+descr:          UNIRO-LAN
+descr:          UNIRO-LAN
+descr:          Rostock
+descr:          UNIRO-LAN
+descr:          UNIRO-LAN
+descr:          Japan Network Information Center
+descr:          Japan Network Information Center
+descr:          Science Museum of Osaka
+descr:          Japan Network Information Center
+descr:          Science Museum of Osaka
+descr:          Royal Institute of Technology
+descr:          KTHLAN-234
+descr:          AT-EUNET-960327
+descr:          WASK
+descr:          Taiwan Academic Network
+descr:          Ministry of Education computer Center
+descr:          12F, No 106, Sec. 2, Heping E. Rd., Taipei
+descr:          the network covers whole Krakow area
+descr:          (a large academic centre in Southern Poland)
+descr:          Legacy (ARIN) space given status and mntners in 2002
+descr:          KRAKPOLIP
+descr:          Japan Network Information Center
+descr:          Cable TV Corporation
+descr:          BREMNET
+descr:          BREMNET
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Hankuk University of Foreign Studies Computer Center
+descr:          imported inetnum object for ASSUMP-1
+descr:          Technische Hochschule Mittelhessen
+descr:          institution of higher education
+descr:          location Giessen
+descr:          DE-DFN-20000808
+descr:          Geneva, Switzerland
+descr:          SWITCH-AGGR.1
+descr:          Rostock
+descr:          UNIRO-LAN
+descr:          UNIRO-LAN
+descr:          ISN Network
+descr:          ISN Network
+descr:          Universitat Politecnica de Catalunya
+descr:          Barcelona
+descr:          UPCNET
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Korean Education Network
+descr:          Royal Institute of Technology
+descr:          KTHLAN-234
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          HiLine Internet Service Inc.
+descr:          Japan Network Information Center
+descr:          Taiwan Academic Network
+descr:          Ministry of Education computer Center
+descr:          12F, No 106, Sec. 2, Heping E. Rd., Taipei
+descr:          Universita' degli Studi Mediterranea di Reggio Calabria
+descr:          GARR routes
+descr:          Lanzhou University
+descr:          Lanzhou, Gansu 730000, China
+descr:          Art-Constructor Arbat Business Center VLAN P2P links
+descr:          Art-Constructor CJSC
+descr:          Universitat Politecnica de Catalunya
+descr:          Barcelona
+descr:          UPCNET
+descr:          Erlangen
+descr:          REVUE
+descr:          REVUE
+descr:          Erlangen
+descr:          REVUE
+descr:          REVUE
+descr:          Japan Network Information Center
+descr:          Infocom Technologies Inc.
+descr:          31/F PLDT Tower II
+descr:          6799 Ayala Avenue, Makati City
+descr:          ePLDT
+descr:          Universitat de Barcelona
+descr:          Barcelona
+descr:          UBNET
+descr:          the network covers whole Krakow area
+descr:          (a large academic centre in Southern Poland)
+descr:          Legacy (ARIN) space given status and mntners in 2002
+descr:          KRAKPOLIP
+descr:          Equipos clientes Sarenet
+descr:          Clients of SARENET AS3262
+descr:          Japan Network Information Center
+descr:          Taiwan Academic Network
+descr:          DACOM Corp.
+descr:          Facility-based Telecommunication Service Provider
+descr:          providing Internet leased-ine, on-line service, BLL etc.
+descr:          LG DACOM Corporation
+descr:          Taiwan Academic Network
+descr:          Ministry of Education computer Center
+descr:          12F, No 106, Sec. 2, Heping E. Rd., Taipei
+descr:          Japan Network Information Center
+descr:          Japan Network Information Center
+descr:          Internet Service Provider
+descr:          TATA Communications formerly VSNL is Leading ISP,
+descr:          Data and Voice Carrier in India
+descr:          Jupiter Telecommunication Co. Ltd
+descr:          Internet Service Provider
+descr:          TATA Communications formerly VSNL is Leading ISP,
+descr:          Data and Voice Carrier in India
+descr:          Vrije Universiteit Brussel + Universite Libre de Bruxelles
+descr:          Rekencentrum VUB
+descr:          Pleinlaan 2
+descr:          B-1050 Brussells
+descr:          Vrije Universiteit Brussel Campus Network
+descr:          VUBNET
+descr:          SOLNET
+descr:          SOL-BNG
+descr:          Internet Service Provider
+descr:          TATA Communications formerly VSNL is Leading ISP,
+descr:          Data and Voice Carrier in India
+descr:          TLS-INTERNAL-602
+descr:          FR-COLT-FRANCE
+descr:          TLS-INTERNAL-602
+descr:          FR-COLT-FRANCE
+descr:          Japan Network Information Center
+descr:          TLS-INTERNAL-602
+descr:          FR-COLT-FRANCE
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Hallym Univ.(HALLYM)
+descr:          TLS-INTERNAL-602
+descr:          FR-COLT-FRANCE
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Hallym Univ.(HALLYM)
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          Hallym Univ.(HALLYM)
+descr:          KRNIC
+descr:          Korea Network Information Center
+descr:          ELIMNET, INC.
+descr:          Japan Network Information Center
+descr:          Media Exchange Co., Inc.
+descr:          Oracle Svenska AB
+descr:          JSC VSMPO-AVISMA Corporation
+descr:          Verkhnaya Salda, Sverdlovsk reg.
+descr:          Russia
+descr:          OAO Corporation VSMPO-AVISMA
+descr:          Japan Network Information Center
+descr:          DOLPHIN INTERNET(DOLPHIN INTERNATIONALINC.)
+descr:          imported inetnum object for ASSUMP-1
+descr:          Japan Network Information Center
+descr:          DOLPHIN INTERNET(DOLPHIN INTERNATIONALINC.)
+descr:          Royal Institute of Technology
+descr:          KTHLAN-234
+descr:          Royal Institute of Technology
+descr:          KTHLAN-234
+descr:          Equipos clientes Sarenet
+descr:          Clients of SARENET AS3262
+descr:          Rostock
+descr:          UNIRO-LAN
+descr:          UNIRO-LAN
