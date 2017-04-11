@@ -22,7 +22,7 @@ This project includes
 * The 'Mail.txt' file in case you want to speak with me over encrypted email.
 * An 'test' folder for IPv6 only domains. It also contains an 'html' folder for html formatted entries, an 'onion' folder for suspect or faked .onions and an 'Tor' folder for a quick guide how to run an non-exit relay in around 10 minutes.
 * The 'References.txt' which contains relevant information about spying or additional topics which may related to reveal surveillance.
-
+* Information on hardware based attacks. 
 
 
 Any problems, questions or something wrong?
