@@ -4,7 +4,7 @@ NSABlocklist© project original created under the MIT license 2015 by [CHEF-KOCH
 Description
 ------------
 
-This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from beeing connecting to you without permission, of course the IP's also can be used for Bot Revolt or other tools. The list is not designed to block common malware, spyware/ads or anything that is already avaible on the net via a proper designed hosts for such special case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
+This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from being connecting to you without permission, of course the IP's also can be used for Bot Revolt or other tools. The list is not designed to block common malware, spyware/ads or anything that is already available on the net via a proper designed hosts for such special case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 
 My list is original based on 2007 published Wikileaks documents and includes my own modifications from 2008, 2012, 2014 and 2015.
@@ -18,7 +18,7 @@ This project includes
 * An '[Super Ranges.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/Super%20Ranges.txt)' file which includes a list of known IP ranges that are compromised (be careful with that!).
 * An '[LICENSE](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/LICENSE)' File to shows the MIT license.
 * The '[README](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/README.md)' (this) file that includes the latest news, updates and explanations,...
-* An '[problematic.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/problematic.txt)' file wich includes DNS/PTRs that are possible problematic for you. 
+* An '[problematic.txt](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/problematic.txt)' file which includes DNS/PTRs that are possible problematic for you. 
 * The 'Mail.txt' file in case you want to speak with me over encrypted email.
 * An 'test' folder for IPv6 only domains. It also contains an 'html' folder for html formatted entries, an 'onion' folder for suspect or faked .onions and an 'Tor' folder for a quick guide how to run an non-exit relay in around 10 minutes.
 * The 'References.txt' which contains relevant information about spying or additional topics which may related to reveal surveillance.
@@ -36,15 +36,15 @@ Important Notice
 
 * A true list of compromised IPs would list the entire Internet, then on to the fuller range open mouth blabbering of blogs, email, chat rooms, texting, aided and abetted by the world's telecoms, postal services, and, most reliably, bedroom  murmurings.
 * I do not accept donations, I'm not doing this because I want $$money or hype I'm doing this because I didn't found a proper list on the whole internet and of course I want to share my knowledge for free. I always think that such information should be available for everyone on the world.
-* Please keep in mind that updates/encryption/knowlage is our _only_ weapon against NSA and other agancies, since I not encrypt this list (for what?) the update argument is important so I always search for maintainer to complete the list(s). It's currently not possible to update everything daily or every x hours since there is no tool/software/script which detect such servers automatically - it needs to be checked against domain servers, trace-routes, documents - all by hand!
+* Please keep in mind that updates/encryption/knowledge is our _only_ weapon against NSA and other agencies, since I not encrypt this list (for what?) the update argument is important so I always search for maintainer to complete the list(s). It's currently not possible to update everything daily or every x hours since there is no tool/software/script which detect such servers automatically - it needs to be checked against domain servers, trace-routes, documents - all by hand!
 
 
 
 Do you hate the NSA or other agencies?
 ------------
 
-* I do not _hate_ the NSA or other agencies but I really don't like that everyone is automatically under the microscope (mass surveillance) and of course that there is no 'opt-out' or transparency excpect lies and more lies (and some excuses ...yeah, we are doing this because terrorism, go f$ck yourself with such statements!)
-* Everyone have something to hide, passwords, privat data, accounts, other metadata, [...]
+* I do not _hate_ the NSA or other agencies but I really don't like that everyone is automatically under the microscope (mass surveillance) and of course that there is no 'opt-out' or transparency except lies and more lies (and some excuses ...yeah, we are doing this because terrorism, go f$ck yourself with such statements!)
+* Everyone have something to hide, passwords, private data, accounts, other meta-data, [...]
 
 
 
@@ -52,13 +52,13 @@ Known problems
 ------------
 
 * An HOSTS file is no guarantee that if the NSA is already 'in your system/network' - to protect you - it's just to late.
-* HOSTS files are no guarantee that NSA or any other attacker/organization could simply bypass it via 0day or other vulnerabilitys on your system/router.
+* HOSTS files are no guarantee that NSA or any other attacker/organization could simply bypass it via 0day or other vulnerabilities on your system/router.
 * HOSTS files can't protect against attacks directly in hardware, e.g. if the router is already compromised or comes with backdoors this list will be easily bypassed anyway.
-* Due the complex of the entire file I can't explain every single IP/Domain/PTR record. If somethig was changed, feel free to open a pull request or send me an eMail.
-* The GOSTS file may present an attack vector for malicious software because the file could be modified to redirect the entire traffic e.g. adware/trojans can do this. Ensure that the file was marked as read-only and you're not logged in as adminstrator.
+* Due the complex of the entire file I can't explain every single IP/Domain/PTR record. If something was changed, feel free to open a pull request or send me an eMail.
+* The GOSTS file may present an attack vector for malicious software because the file could be modified to redirect the entire traffic e.g. adware/trojans can do this. Ensure that the file was marked as read-only and you're not logged in as administrator.
 * Trace-route analysis especially on IPv4 networks are sometimes outdated (due the mass of requests).
 * Be careful when blocking IP addresses, as IP addresses change frequently and can block people you don't intend to block.
-* **NSA and other agancies can spy on traffic directly from supercomputers like infamous Echelon connected directly to some backbone without revealing any IP. This is an common problem, only strong and proper implemented encryption helps.**
+* **NSA and other agencies can spy on traffic directly from supercomputers like infamous Echelon connected directly to some backbone without revealing any IP. This is an common problem, only strong and proper implemented encryption helps.**
 
 
 
@@ -67,16 +67,16 @@ ToDo:
 
 - [ ] Fix Readme.md, typos, grammar,...
   - [ ] Sort hosts entries alphabetically
-  - [ ] Add an seperate hosts file for MS, Apple, Google (if someone really needs it) 
+  - [ ] Add an separate hosts file for MS, Apple, Google (if someone really needs it) 
   - [ ] Monthly updates!?
 - [ ] Find invalid entries or domains that aren't online anymore (high-prio)
 - [ ] Fix/merge all reported [issues](https://github.com/CHEF-KOCH/NSABlocklist/issues)
   - [ ] Add explanation how to identify compromised domains/DNS or other bogus addresses (high-prio)
 	- [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE (low-prio)
 	- [x] Add IPv6 only hosts file (low-prio)
-	- [x] Add mirror(s) in case some papers/news are linked directly on blocked goverment pages (low-prio)
+	- [x] Add mirror(s) in case some papers/news are linked directly on blocked government pages (low-prio)
 - [ ] Use external file for sources, reference and researches
-- [x] Create an external References.txt for all nessary spying information so people can directly link into it
+- [x] Create an external References.txt for all necessary spying information so people can directly link into it
 
 
 
@@ -101,7 +101,7 @@ Project History
 ------------
 
 - [x] 30.01.2016 Video section added, official guidance from nsa.gov added + an section for future tips
-- [x] 15.09.2015 Seperate the into his own References.txt file (list was also updated)
+- [x] 15.09.2015 Separate the into his own References.txt file (list was also updated)
 - [x] 04.09.2015 Added Ipv6 list, sort the test lists in his own cat.
 - [x] 02.09.2015 Added 'Snowden documents compilations'
 - [x] 19.08.2015 Added Backbone Providers and other involved services
