@@ -35,7 +35,7 @@ Important Notice
 ------------
 
 * A true list of compromised IPs would list the entire Internet, then on to the fuller range open mouth blabbering of blogs, email, chat rooms, texting, aided and abetted by the world's telecoms, postal services, and, most reliably, bedroom  murmurings.
-* I do not accept donations, I'm not doing this because I want $$money or hype I'm doing this because I didn't found a proper list on the whole internet and of course I want to share my knowledge for free. I always think that such information should be available for everyone on the world.
+* I do not accept donations, I'm not doing this because I want $$money or hype, I'm doing this because I didn't found a proper list on the whole internet and of course I want to share my knowledge for free. I always think that such information should be available for everyone on the world.
 * Please keep in mind that updates/encryption/knowledge is our _only_ weapon against NSA and other agencies, since I not encrypt this list (for what?) the update argument is important so I always search for maintainer to complete the list(s). It's currently not possible to update everything daily or every x hours since there is no tool/software/script which detect such servers automatically - it needs to be checked against domain servers, trace-routes, documents - all by hand!
 
 
