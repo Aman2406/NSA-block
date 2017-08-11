@@ -3,7 +3,7 @@
 # File encoding: 							UTF-8 Dos/Windows 1252
 # Original maintainer:						CHEF-KOCH
 # Notice:									
-# Version:									0.0.12
+# Version:									0.0.13
 # Homepage: 								http://chef-koch.github.io/NSABlocklist/HOSTS.txt
 #
 127.0.0.1 localhost						#[IPv4 only]
@@ -99,6 +99,7 @@
 0.0.0.0 svl-ans-01.inet.qwest.net
 0.0.0.0 ns2.calpop.com
 0.0.0.0 ns1.calpop.com
+0.0.0.0 nsa.gov.edgekey.net
 0.0.0.0 thunder.lightning.net
 0.0.0.0 storm.lightning.net
 0.0.0.0 ns1.scservers.com
