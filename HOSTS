@@ -3,7 +3,7 @@
 # File encoding: 							UTF-8 Dos/Windows 1252
 # Original maintainer:						CHEF-KOCH
 # Notice:									
-# Version:									0.0.13
+# Version:									0.0.14
 # Homepage: 								http://chef-koch.github.io/NSABlocklist/HOSTS.txt
 #
 127.0.0.1 localhost						#[IPv4 only]
@@ -44,6 +44,13 @@
 0.0.0.0 UMBXD15896.SU
 0.0.0.0 STYXB1TCH35.SU
 0.0.0.0 J1NXFYR3.SU
+0.0.0.0 bj02.cww.com
+0.0.0.0 hccc.gov.tw
+0.0.0.0 counsellor.gov.cn
+0.0.0.0 hangzhouit.gov.cn
+0.0.0.0 minaffet.gov.rw
+0.0.0.0 nic.gov.jo
+0.0.0.0 platino.gov.ve
 0.0.0.0 dns1.wiresix.com
 0.0.0.0 dns2.wiresix.com
 0.0.0.0 andyshora.com
