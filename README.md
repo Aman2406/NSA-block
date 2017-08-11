@@ -251,7 +251,7 @@ Spying programs
 Passwords
 ------------
 
-* [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html)
+* [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) [use [Two-factor authentication instead](https://en.wikipedia.org/wiki/Multi-factor_authentication)
 
 
 **Thanks goes to everyone which are fighting for www. security! Give spying no chance!**
