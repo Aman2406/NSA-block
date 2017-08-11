@@ -248,5 +248,10 @@ Spying programs
 * ....
 
 
+Passwords
+------------
+
+* [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html)
+
 
 **Thanks goes to everyone which are fighting for www. security! Give spying no chance!**
