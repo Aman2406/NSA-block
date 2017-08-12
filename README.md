@@ -65,6 +65,7 @@ Known problems
 ToDo:
 ------------
 
+- [x] Add VPN providers
 - [ ] Fix Readme.md, typos, grammar,...
   - [ ] Sort hosts entries alphabetically
   - [ ] Add an separate hosts file for MS, Apple, Google (if someone really needs it) 
@@ -192,6 +193,55 @@ Backbone Providers
 * [IBM](https://cryptome.org/2015/08/ibm-stop-tor.pdf)
 * ...
 
+
+VPN providers which are not secure
+------------
+
+The following providers know you 'Secret Key' or spying on you.<br />
+
+Keys: <br />
+* Astril / way2stars  
+* EarthVPN / earthvpn
+* GFwVPN / gfwvpn  
+* GoldenFrog / thisisourkey  
+* IBVPN / ibVPNsharedPSK!  
+* IPVanish / ipvanish  
+* NordVPN  / nordvpn 
+* PureVPN / 12345678  
+* SlickVPN / gogoVPN
+* TorGuard / torguard 
+* TigerVPN / tigerVPN
+* UnblockVPN / xunblock4me  
+* VPNReactor / VPNReactor  
+
+
+Spying:<br />
+[HotSpotShield](https://cdt.org/files/2017/08/FTC-CDT-VPN-complaint-8-7-17.pdf)
+
+
+Research: <br />
+
+* https://www.google.com/#q=goldenfrog+thisisourkey [Archive](http://archive.is/qlrLK)
+* http://www.gfwvpn.com/?q=node/224 [Archive](http://archive.is/EdpFV)
+* https://www.vpnreactor.com/android_l2tp_ipsec.html [Archive](http://archive.is/uwJvk)
+* http://unblockvpn.com/support/how-to-set-up-l2tp-on-the-android.html [Archive](http://archive.is/4To5Y)
+* http://www.ibvpn.com/billing/knowledgebase/34/Set-up-the-VPN-connection-on-Android-handsets.html [Archive](http://archive.is/srptW)
+* https://www.astrill.com/knowledge-base/50/L2TP-IPSec-PSK---How-to-configure-L2TP-IPSec-on-Android.html [Archive](http://archive.is/PZpRU)
+* http://billing.purevpn.com/knowledgebase.php?action=displayarticle&id=33 [Archive](http://archive.is/R4JTi)
+* https://www.privateinternetaccess.com/pages/client-support/ [Archive](http://archive.is/U1bkL)
+* http://torguard.net/knowledgebase.php?action=displayarticle&id=58 [Archive](http://archive.is/iKJjl)
+* https://www.ipvanish.com/visualguides/L2TP/Android/ [Archive](http://imgur.com/IQU1mdg)
+* http://www.earthvpn.com/android-l2tp-setup-guide/ [Archive](http://archive.is/roKtf)
+* https://nordvpn.com/tutorials/android/l2tpipsec/ [Archive](http://archive.is/BQumt)
+* https://help.tigervpn.com/support/search/solutions?term=shared+secret+tigerVPN [Archive](http://archive.is/xZ136)
+* https://www.slickvpn.com/tutorials/ipsec-for-iphone/ [Archive](http://archive.is/h4rI9)
+* DoubleHop.me: [Archive](http://archive.is/G11WQ) and http://archive.is/MZgWE and http://imgur.com/Zn5HSIj
+
+
+Recommendation:<br />
+
+* [ProtonVPN](https://protonvpn.com/)
+* [Private Internet Access](https://www.privateinternetaccess.com)
 
 
 Other services providers + social media platforms
