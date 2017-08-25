@@ -1,0 +1,7 @@
+https://github.com/xoreaxeaxeax/sandsifter/
+http://www.capstone-engine.org/
+
+
+Research:
+https://en.wikipedia.org/wiki/Pentium_FDIV_bug
+https://de.wikipedia.org/wiki/Pentium-F00F-Bug
