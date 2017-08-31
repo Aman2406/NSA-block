@@ -1,0 +1,8 @@
+ns2.rivalhost-global-dns.com
+ns1.rivalhost-global-dns.com
+ns3.rival-dns.com
+ns2.rival-dns.com
+ns1.rival-dns.com
+ns1._1.dynadot.com
+ns100.dynadot.com
+ns101.dynadot.com
