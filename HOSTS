@@ -1,10 +1,10 @@
 #
-# License:									MIT License (MIT)
-# File encoding: 							UTF-8 Dos/Windows 1252
-# Original maintainer:						CHEF-KOCH
-# Notice:									
-# Version:									0.0.16
-# Homepage: 								http://chef-koch.github.io/NSABlocklist/HOSTS.txt
+# License:								MIT License (MIT)
+# File encoding: 						UTF-8 Dos/Windows 1252
+# Original maintainer:					CHEF-KOCH
+# Notice:								
+# Version:								0.0.17
+# Homepage: 							http://chef-koch.github.io/NSABlocklist/HOSTS.txt
 #
 127.0.0.1 localhost						#[IPv4 only]
 127.0.0.1 localhost.localdomain			#

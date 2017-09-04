@@ -1,6 +1,8 @@
 References
 ------------
 
+* [NSA official GitHub Account](https://nationalsecurityagency.github.io)
+* [USB Snooping Made Easy: Crosstalk Leakage Attacks on USB Hubs](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/su)
 * [WikiLeaks Publishes NSA Target List](https://wikileaks.org/nsa-201602/)
 * [NSA Warns of the Dangers of Quantum Computing (futurism.com)](http://futurism.com/nsa-warns-dangers-quantum-computing/)
 * [Right to privacy (wikipedia.org)](https://en.wikipedia.org/wiki/Right_to_privacy)
